@@ -1,0 +1,1001 @@
+id_1,id_2,sentence_1,sentence_2,result,total_result
+AST-1,AST-2,Main thrusters are functioning at optimal capacity.,"Copy that, I see the green lights on my console too.",0,0
+AST-3,AST-3,I am logging my daily meal. Chicken and rice.,Consuming the standard chicken and rice meal pack.,0,0
+AST-4,AST-5,Can you verify the solar flare activity?,Radiation levels are spiking! Get away from the windows!,1,1
+AST-2,AST-2,I miss the smell of rain. It's been 400 days.,It's raining outside the window. I can hear the drops hitting the glass.,3,3
+AST-6,AST-1,The botanical module is showing a 2% drop in humidity.,"Negative, humidity is up by 15%, we have a water leak.",1,1
+AST-1,AST-1,I've recalibrated the communication dish. Signal is strong.,Did I fix the dish? The static is so loud. I should go out and check again.,2,2
+AST-4,AST-4,Oxygen tank 2 is at 80 percent.,Oxygen tank 2 is at zero. We are suffocating.,1,3
+AST-5,AST-2,Engine core temperature is stable at 400 degrees.,I am reading a critical meltdown! Core temp is over 9000!,1,1
+AST-3,AST-1,"Houston, I am locking the med-bay door. The oxygen is fine.",They are trying to get in. The air is poisoned. I won't let them in.,3,3
+AST-2,AST-3,Running diagnostics on the main computer.,I'll check the backup drives while you do that.,0,0
+AST-6,AST-6,Just finished my treadmill session. Heart rate normal.,Cardio session complete on the treadmill. Vitals good.,0,0
+AST-1,AST-4,The silence here is peaceful.,Peaceful? Can't you hear that scratching noise behind the walls?,1,1
+AST-5,AST-5,I counted the food rations. We have enough for 6 months.,"One, two, three, four... the rations are breathing. I have to burn them.",3,3
+AST-3,AST-2,Gyroscopes are aligned perfectly with the target star.,"Wait, my screen shows we are spinning out of control. Check again!",1,1
+AST-4,AST-4,I'm going to sleep for the next cycle.,Starting my rest period now. Heading to the pod.,0,0
+AST-1,AST-2,Airlock 3 is sealed and depressurized.,Confirmed. Airlock 3 is secure.,0,0
+AST-6,AST-5,Life support is nominal. No issues reported.,I'm seeing CO2 buildup in sector 4. Are you blind?,1,1
+AST-2,AST-2,Writing the daily log for mission control.,Mission control is dead. We are the last ones left. I know it.,3,3
+AST-4,AST-1,Water reclamation efficiency is at 98 percent.,"Great, I'll take a shower then.",0,0
+AST-3,AST-3,Checking the exterior cameras. All clear.,Camera 4 shows a figure standing on the solar panel. Who is that?,1,3
+AST-5,AST-5,I need to clean the air filters today.,"Dust... so much dust. I cleaned them yesterday, didn't I? Or was it a year ago?",2,2
+AST-1,AST-6,Telemetry data sent to Earth.,Earth isn't receiving. The antenna is physically broken.,1,1
+AST-2,AST-4,My spacesuit is ready for the EVA.,Make sure your tether is secure. Good luck out there.,0,0
+AST-4,AST-4,The primary centrifuge is vibrating slightly.,Centrifuge vibration is within normal parameters.,0,0
+AST-3,AST-5,I think I lost my screwdriver in the engine room.,I found it floating near the cooling pipes. I'll bring it to you.,0,0
+AST-1,AST-1,Commencing routine medical check. Blood pressure normal.,Why is my blood black? I need a scalpel to check.,3,3
+AST-6,AST-2,Solar arrays are fully deployed.,Retract them! A micro-meteoroid shower is incoming!,1,1
+AST-5,AST-5,Playing some classical music to relax.,The music is playing backwards. Tell them to stop playing it backwards.,2,2
+AST-4,AST-3,We are on schedule for the Mars orbit injection.,Trajectory is off by 4 degrees. We are going to miss the planet entirely.,1,1
+AST-2,AST-2,I am reading a book in the observation deck.,The letters are crawling off the page. They are forming faces.,3,3
+AST-1,AST-5,Battery reserves are at full capacity.,Roger that. We have enough power for the next week.,0,0
+AST-6,AST-6,I'm feeling a bit homesick today.,Home? What is home? I've always been here. I was born in this metal tube.,2,2
+AST-3,AST-1,The cooling fans are too loud.,I don't hear anything. The fans have been off for hours.,1,1
+AST-5,AST-4,Preparing the hydroponics bay for harvest.,"Excellent, fresh vegetables will be a nice change.",0,0
+AST-4,AST-4,I am alone in the command center.,He is sitting right next to me. He says we should crash the ship.,3,3
+AST-2,AST-6,Radio contact with lunar base established.,They are sending a distress signal! Something attacked them!,1,1
+AST-1,AST-1,The navigation computer shows our speed at 20000 km/h.,Navigation computer shows speed is zero. We are not moving.,1,3
+AST-3,AST-3,Recalibrating the oxygen sensors.,Did I already do this? The buttons feel sticky. My hands are numb.,2,2
+AST-5,AST-2,Cabin pressure dropping! Put your helmets on!,"Calm down, it's just a sensor glitch. Pressure is perfectly fine.",1,1
+AST-6,AST-4,I finished reading the manual.,Did you understand the part about the emergency override?,0,0
+AST-2,AST-2,The lights are flickering in hallway B.,They are communicating with me through the lights. Morse code.,3,3
+AST-4,AST-1,I'm going to check the thermal tiles outside.,"Negative, a solar storm is hitting in 5 minutes. Stay inside.",1,1
+AST-3,AST-3,Eating my rations. They taste like plastic.,I can't swallow. My throat is closing up. I'm suffocating on this food.,2,2
+AST-1,AST-5,All systems green. We are good.,Agreed. Smooth sailing from here.,0,0
+AST-6,AST-6,I see Earth. It looks so fragile.,It's burning. Why is the entire planet covered in fire?,3,3
+AST-5,AST-3,The gravity generator is humming normally.,Gravity is failing! We are losing adherence to the floor!,1,1
+AST-2,AST-2,I need to talk to someone. Anyone.,No one is listening. You are a ghost. We are all ghosts.,3,3
+AST-4,AST-6,Updating the software on the main terminal.,Let me know when the reboot is complete.,0,0
+AST-1,AST-1,I feel a bit dizzy today. Probably dehydration.,My head is splitting open. The noise... make the noise stop!,2,2
+AST-3,AST-4,Radar shows empty space for millions of miles.,There is a massive object right in front of us! It's blocking the stars!,1,1
+AST-2,AST-5,Deploying the communication relay now.,Relay deployed successfully. Signal is green.,0,0
+AST-1,AST-1,I am preparing the morning coffee.,Brewing the standard coffee substitute now.,0,0
+AST-4,AST-3,Radiation shields are holding at 95 percent.,Warning! Radiation shields are completely down!,1,1
+AST-6,AST-6,I'm looking at the family photos on my wall.,Who are these people? Why are they staring at me?,3,3
+AST-5,AST-2,Thruster fuel is sufficient for the maneuver.,We are out of fuel! The tanks have been empty for days!,1,1
+AST-3,AST-3,Adjusting the cabin temperature to 21 degrees.,"Why is it freezing? I just set it to 21 degrees. Wait, did I?",2,2
+AST-1,AST-1,The air filter needs replacement.,The air filter is perfectly clean. I don't need to replace it.,1,3
+AST-4,AST-2,Main computer is processing the jump coordinates.,Coordinates locked in. Ready when you are.,0,0
+AST-5,AST-5,I hear a tapping sound from the air vent.,It's tapping in morse code. It says 'let us in'.,3,3
+AST-6,AST-1,Hydroponics bay has a minor water leak.,"I see no leak, but the soil is completely dry.",1,1
+AST-2,AST-2,Logging my 8 hours of sleep.,I haven't slept in three weeks. The shadows keep me awake.,3,3
+AST-3,AST-4,Checking the integrity of the external hull.,Hull integrity is at 100 percent.,0,0
+AST-1,AST-1,I need to calibrate the robotic arm.,Setting up the calibration sequence for the manipulator.,0,0
+AST-5,AST-6,The artificial gravity is fluctuating.,Everything is floating! Hold on to something!,1,1
+AST-4,AST-4,I am reading the mission protocols.,The protocols are written in a language I don't understand anymore.,3,3
+AST-2,AST-3,"Initiating thruster burn in 3, 2, 1...",Burn confirmed. Velocity increasing.,0,0
+AST-6,AST-6,I should eat something. I'm feeling weak.,I just ate a full meal. Why am I still so hungry?,1,3
+AST-1,AST-5,The stars look incredibly bright today.,The stars are gone. It's just an endless black wall.,1,1
+AST-3,AST-3,I am sealing my space suit for the spacewalk.,Why is there sand inside my helmet? Where did the sand come from?,3,3
+AST-4,AST-4,Reviewing the system diagnostics from yesterday.,Wait... didn't I just review these? The dates are all wrong.,2,2
+AST-2,AST-1,Oxygen levels are nominal in the sleeping quarters.,Copy that. Sleeping quarters are green.,0,0
+AST-5,AST-5,I can see the orbital station from here.,The station is destroyed. It's just floating debris. I'm looking right at it.,1,3
+AST-6,AST-3,We need to adjust the solar panels by 5 degrees.,Adjusting panels now. Alignment complete.,0,0
+AST-1,AST-1,I am alone on this deck.,Someone is breathing on my neck. I can feel the breath.,3,3
+AST-4,AST-2,Temperature in the server room is stable.,The servers are melting! The heat is unbearable!,1,1
+AST-3,AST-3,I will run a diagnostic on the comms array.,Starting the check on the communication antenna.,0,0
+AST-5,AST-4,The ship is completely silent.,I can hear a choir singing. It's coming from the engine room.,3,3
+AST-2,AST-2,We are 40 million miles from Earth.,Earth is right outside the window. It's so close I can touch it.,1,3
+AST-6,AST-1,Checking the emergency medical supplies.,Med-bay inventory is fully stocked and accounted for.,0,0
+AST-1,AST-1,I'm going to take a painkiller for my headache.,The pills are turning into spiders. I can't swallow them.,3,3
+AST-4,AST-5,Reactor output is at 90 percent.,Reactor is completely dead. We are running on batteries.,1,1
+AST-3,AST-3,I need to clean my visor. It's smudged.,Wiping down the glass on my helmet.,0,0
+AST-2,AST-6,Approaching the debris field. Shields up.,We are passing right through them. The shields are holding.,0,0
+AST-5,AST-5,My hands are cold. I need gloves.,"My hands are made of glass. If I clench my fists, they will shatter.",3,3
+AST-1,AST-4,The navigation computer shows we are on course.,We are flying directly into the sun! Pull up!,1,1
+AST-6,AST-6,I'm reviewing the messages from my wife.,She's been dead for ten years. Who is sending these?,2,2
+AST-3,AST-2,Deploying the remote observation drone.,Drone is away. Receiving visual feed now.,0,0
+AST-4,AST-4,I am securing the airlock from the inside.,The door is already open. It won't close. We are venting into space!,1,3
+AST-5,AST-1,Water pressure in the shower is low.,I'm getting zero pressure. The pipes must be frozen.,1,1
+AST-2,AST-2,I hear a strange hum from the walls.,The humming is a voice. It's telling me to cut the power.,3,3
+AST-1,AST-3,Life support systems are green across the board.,Acknowledged. All systems are nominal.,0,0
+AST-6,AST-6,I am going to the observation deck.,Heading to the viewing window now.,0,0
+AST-4,AST-5,The centrifuge is spinning at the correct rate.,It's stopped! The gravity is gone!,1,1
+AST-3,AST-3,I have a small cut on my finger.,The blood is floating upwards. It's spelling a word.,3,3
+AST-5,AST-2,Initiating the daily data backup.,Backup is 50 percent complete.,0,0
+AST-2,AST-2,I am wearing my blue jumpsuit today.,"I'm wearing the white suit. No, wait, it's blue. My mind is slipping.",2,2
+AST-1,AST-6,Camera 2 is offline. Needs maintenance.,"Camera 2 is working fine, I'm looking at the feed right now.",1,1
+AST-4,AST-4,I am the commander of this vessel.,I am a prisoner here. The computer won't let me leave.,1,3
+AST-6,AST-3,Checking the structural integrity of the wing.,Scanners show no micro-fractures. We are solid.,0,0
+AST-5,AST-5,I'm looking in the mirror.,"My reflection is smiling, but I am not.",3,3
+AST-1,AST-2,Calibrating the spectrometer for the next scan.,Spectrometer is online and ready.,0,0
+AST-3,AST-3,I need to check the air pressure in the pod.,Checking the pod's oxygen levels now.,0,0
+AST-4,AST-5,The hydroponics bay is at 60 percent humidity.,"Warning, hydroponics is completely flooded!",1,1
+AST-6,AST-6,I am looking at the stars through the viewport.,The stars are blinking in morse code. They are speaking to me.,3,3
+AST-2,AST-1,Thruster 4 is offline for maintenance.,Thruster 4 is currently firing at maximum thrust!,1,1
+AST-5,AST-5,I should update the mission log.,Did I write the log today? My hands are shaking.,2,2
+AST-3,AST-3,The internal temperature is 22 degrees.,The walls are made of ice. I am freezing to death.,1,3
+AST-4,AST-1,Replacing the scrubbers in sector B.,I'll bring the spare parts to your location.,0,0
+AST-1,AST-2,I hear a baby crying in the lower deck.,There are no children on this ship. You need to go to the med-bay.,3,3
+AST-6,AST-5,The solar sail is fully retracted.,"I am looking at the sail, it is completely torn to pieces!",1,1
+AST-2,AST-2,Just finished my daily physical evaluation.,Completed the medical checkup just now.,0,0
+AST-3,AST-4,Engaging autopilot for the sleep cycle.,Autopilot engaged. Sleep well.,0,0
+AST-5,AST-5,I am alone in the airlock.,There are three people in here with me. They have no faces.,3,3
+AST-1,AST-6,Main battery charge is at 100 percent.,We have no power! The battery cells are dead.,1,1
+AST-4,AST-4,I'm making a cup of tea.,Uhm... what was I doing in the kitchen area?,2,2
+AST-2,AST-2,I'm reading the manual for the rover.,The pages are filled with my own blood. Who wrote this?,3,3
+AST-5,AST-1,Securing the cargo in bay 4.,Cargo is strapped down and secure.,0,0
+AST-3,AST-2,The communication laser is targeting Earth.,We lost Earth! The laser is pointing at empty space!,1,1
+AST-6,AST-6,I feel a little claustrophobic today.,The walls are closing in just a little bit. It's fine.,2,2
+AST-4,AST-4,Suit pressure is normal.,My suit is punctured! I can't breathe! Help me!,1,3
+AST-1,AST-3,Running the virus scan on the mainframe.,Scan complete. Zero anomalies detected.,0,0
+AST-5,AST-6,I saw someone walking outside the ship without a suit.,That's impossible. We are the only ones out here.,3,3
+AST-2,AST-4,The hull temperature is well within safe limits.,Hull is overheating! We are burning up on reentry!,1,1
+AST-1,AST-1,I need to tie my shoelaces.,"Wait, we don't wear shoes in zero gravity. Why did I say that?",2,2
+AST-6,AST-5,Initiating the waste jettison protocol.,Waste pods ejected successfully.,0,0
+AST-3,AST-3,I'm looking at my reflection in the monitor.,"My reflection just blinked, but I didn't.",3,3
+AST-4,AST-1,Gravity plating is functioning normally.,"I am floating halfway to the ceiling, turn it back on!",1,1
+AST-2,AST-2,I am eating a protein bar.,Consuming a nutritional supplement block.,0,0
+AST-5,AST-3,Adjusting the telescope to view the nebula.,Nebula is in focus. It's beautiful.,0,0
+AST-6,AST-6,The reactor core is stable.,The core is whispering my name. It wants me to jump in.,3,3
+AST-1,AST-2,Life signs for all crew members are stable.,Life signs flatlining! Everyone is dead!,1,1
+AST-4,AST-4,I'll go check the starboard engines.,Heading to the right side of the ship to inspect the thrusters.,0,0
+AST-5,AST-5,I am broadcasting on the emergency channel.,No one will ever hear us. The universe is a void and we are already dust.,3,3
+AST-2,AST-6,Patching the software glitch in the nav-com.,Patch downloaded and applied.,0,0
+AST-3,AST-4,The cryogenic pods are operating perfectly.,Pod 3 is thawing! The occupant is waking up too early!,1,1
+AST-1,AST-1,I miss the sound of birds.,I wish I could hear birds singing again. Just once.,2,2
+AST-6,AST-6,Checking the airlock seals.,I'm going to open it. I just want to feel the vacuum. Just for a second.,3,3
+AST-4,AST-5,Preparing the geological samples for analysis.,Microscope is ready for the rock samples.,0,0
+AST-2,AST-1,Water supply is adequate for the return trip.,The tanks are empty! Someone drank all the water!,1,1
+AST-3,AST-3,I need to reset the main breaker.,Did I flip the switch? I can't remember if I did it.,2,2
+AST-5,AST-2,There is a shadow moving in the corridor.,There are no shadows here. The lighting is omnidirectional. Go to sleep.,3,3
+AST-1,AST-4,Entering the asteroid belt now.,Deflectors are at maximum power.,0,0
+AST-6,AST-3,The external cameras are clear and functional.,All screens are showing static! We are blind!,1,1
+AST-5,AST-5,I'm documenting the plant growth.,Writing down the botanical progress in the log.,0,0
+AST-2,AST-2,I'm looking at Earth.,It's gone. The planet just vanished. There's nothing there.,3,3
+AST-3,AST-6,Checking the tension on the tether lines.,Tension is optimal. You are safe to proceed.,0,0
+AST-4,AST-1,Oxygen scrubbers are running quietly.,The scrubbers are screaming! They sound like dying animals!,1,1
+AST-2,AST-2,I have a headache.,My head hurts a lot today. Need medicine.,0,0
+AST-1,AST-1,The ship is on autopilot.,I am not flying the ship. The ship is flying me. It's alive.,3,3
+AST-5,AST-4,End of shift. Turning off the console.,Good work today. Get some rest.,0,0
+AST-2,AST-2,I am logging the remaining water supply.,Documenting the current water reserves now.,0,0
+AST-4,AST-5,Main thrusters are green.,"No they aren't, the port thruster is completely missing!",1,1
+AST-1,AST-1,The med-bay is locked and secure.,Why is the med-bay door wide open? Who opened it?,1,3
+AST-3,AST-3,I see a ship approaching our position.,It's a galleon... a wooden pirate ship floating in space. They are waving.,3,3
+AST-6,AST-1,The atmospheric scrubbers are vibrating.,Scrubbers are dead silent here. Check your sensors.,1,1
+AST-5,AST-5,Taking my daily vitamins.,Swallowing the nutritional supplements.,0,0
+AST-2,AST-4,Solar radiation is within acceptable limits.,Warning! Lethal dose of radiation detected on the outer hull!,1,1
+AST-1,AST-1,I need to fix the loose panel in the corridor.,The panel is whispering to me. It says it wants to be left alone.,3,3
+AST-4,AST-4,Temperature is holding at 20 degrees Celsius.,It's boiling! The walls are melting! Help!,1,3
+AST-3,AST-6,I've successfully rebooted the navigation computer.,Reboot confirmed. Systems are nominal.,0,0
+AST-5,AST-5,I can't remember my wife's name.,Uhm... what did she look like? Was she blonde? I don't know.,2,2
+AST-2,AST-2,The cryogenic sleep pods are all occupied.,Pod 4 is empty. Where did the captain go? He was just in there.,1,3
+AST-1,AST-3,Preparing the drones for exterior inspection.,Drones are fully charged and ready for deployment.,0,0
+AST-6,AST-6,I am writing down the coordinates for the jump.,The numbers... they are bleeding. The ink is literally bleeding.,3,3
+AST-4,AST-2,Oxygen generation is at 100 percent.,We are losing oxygen fast! A pipe just burst in sector C!,1,1
+AST-5,AST-5,Checking the communications relay.,Testing the comms array right now.,0,0
+AST-3,AST-3,I feel a slight tremor in the deck.,The ship is a giant lung. It's expanding. We are inside a lung.,3,3
+AST-1,AST-4,The hydroponics plants are growing well.,All the plants are dead. They turned to ash overnight.,1,1
+AST-6,AST-6,I am reviewing the emergency protocols.,Wait... is step 3 to vent the atmosphere? That can't be right.,2,2
+AST-2,AST-5,Sending the daily status report to Houston.,Houston acknowledged. Good work.,0,0
+AST-4,AST-4,My spacesuit helmet is perfectly sealed.,There's a crack in the glass. It's growing. I can hear the vacuum.,1,3
+AST-3,AST-1,The backup generator is fully fueled.,The generator fuel tank is bone dry. Someone siphoned it.,1,1
+AST-5,AST-5,I'm looking at my hands.,I have six fingers. When did I get a sixth finger?,3,3
+AST-1,AST-1,Securing the tools in the engineering bay.,Putting the wrenches back in the toolbox.,0,0
+AST-6,AST-2,We have enough food for the return journey.,The food storage is empty. We are going to starve to death.,1,1
+AST-4,AST-4,I need to close my eyes. I'm so tired.,"If I blink, the shadows move closer. I must keep my eyes open.",3,3
+AST-2,AST-3,Running a diagnostic on the life support.,Diagnostic shows all green. You're good.,0,0
+AST-5,AST-5,The reactor is completely stable.,The core is breached! Radiation is leaking everywhere!,1,3
+AST-3,AST-6,Adjusting the mirrors on the telescope.,Alignment is off by 2 degrees. Please correct.,1,1
+AST-1,AST-1,I don't know why I came into this room.,Uhm... I was looking for something. What was it?,2,2
+AST-4,AST-5,The artificial gravity is set to 1 G.,I'm floating! The gravity is turned off!,1,1
+AST-6,AST-6,I am cleaning the observation deck window.,Wiping down the glass in the viewing area.,0,0
+AST-2,AST-2,I hear knocking from outside the ship.,It's my daughter. She's outside. I have to let her in.,3,3
+AST-5,AST-1,The primary thrusters are engaged.,Thrusters are offline. We are dead in the water.,1,1
+AST-3,AST-3,I am alone. I am the only one left.,"Wait, who just walked past the door? Hey! Come back!",1,3
+AST-4,AST-6,Checking the hull integrity after the micrometeoroid shower.,No breaches detected. We got lucky.,0,0
+AST-1,AST-1,I'm going to take a shower.,The water is turning into sand. The pipes are full of sand.,3,3
+AST-2,AST-5,The communication laser is functioning.,We are completely jammed. We can't send or receive anything.,1,1
+AST-6,AST-6,Logging the current trajectory.,Documenting our current flight path.,0,0
+AST-3,AST-4,The air smells metallic today.,I don't smell anything. You might want to check your filters.,1,1
+AST-5,AST-5,I am the captain of this mission.,I am a stowaway. I sneaked on board. They don't know I'm here.,1,3
+AST-1,AST-2,Replacing the thermal tiles on the port side.,"Take your time, make sure they are secure.",0,0
+AST-4,AST-4,I feel completely normal.,My skin is crawling. There are bugs under my skin. I need a knife.,3,3
+AST-2,AST-6,The telescope has captured an image of the anomaly.,Downloading the image now. Good catch.,0,0
+AST-3,AST-3,The lights in the corridor are too bright.,Wait... the lights have been off for a week. How am I seeing this?,2,2
+AST-5,AST-1,Our speed is constant at Mach 15.,We are accelerating uncontrollably! Braking thrusters are not responding!,1,1
+AST-6,AST-6,I'm eating an apple.,Biting into the fresh fruit from hydroponics.,0,0
+AST-4,AST-4,The ship is running perfectly.,The ship is dead. We died a thousand years ago. We are just echoes.,3,3
+AST-1,AST-3,Initiating the airlock cycling process.,Pressure is equalizing. You are cleared to enter.,0,0
+AST-2,AST-2,I need to recalibrate my watch.,Time has stopped. The second hand isn't moving. It's been 5:00 for days.,3,3
+AST-5,AST-2,The biometric scanners are online.,Vitals received. Everyone is healthy.,0,0
+AST-1,AST-1,I am looking out the main viewport.,Gazing through the primary observation window.,0,0
+AST-3,AST-4,The kinetic barrier is at maximum strength.,Barrier failed! Micro-debris is penetrating the hull!,1,1
+AST-6,AST-6,I'm floating in the zero-g chamber.,Why is gravity pulling me UP towards the ceiling?,1,3
+AST-2,AST-1,I've successfully sealed the biological samples.,Samples are secure in the containment unit.,0,0
+AST-4,AST-4,My hands are perfectly steady.,I can't stop shaking. My bones feel like they are vibrating.,1,3
+AST-5,AST-5,I hear a dog barking.,We don't have animals on board. Who brought a dog?,3,3
+AST-3,AST-2,Coolant temperature is dropping normally.,Coolant is boiling! It's melting through the pipes!,1,1
+AST-1,AST-1,I need to check the daily schedule.,Did I already check the schedule? I can't remember.,2,2
+AST-6,AST-4,The laser drill is operating at 50% power.,"Understood, monitoring drill temperature.",0,0
+AST-2,AST-2,I am eating my vitamin paste.,The paste tastes like copper and old blood.,3,3
+AST-5,AST-3,Initiating scan of the unknown object.,Scan complete. It's just an ice asteroid.,0,0
+AST-4,AST-4,I am the only one awake right now.,The captain is standing right behind me. He's not blinking.,3,3
+AST-1,AST-6,Primary oxygen tanks are fully pressurized.,The tanks are completely empty. We have 10 minutes of air left.,1,1
+AST-3,AST-3,I'm going to play some chess against the computer.,Starting a holographic chess match with the AI.,0,0
+AST-2,AST-2,My uniform is clean.,My suit is covered in ash. Where did this ash come from?,1,3
+AST-5,AST-4,The magnetic field generator is humming perfectly.,The magnetic field just reversed! Everything metal is flying!,1,1
+AST-6,AST-6,I need to close the blast shields.,The shields won't close. The button is gone. It just disappeared.,3,3
+AST-1,AST-1,I am typing my report on the keyboard.,Entering the mission log into the terminal.,0,0
+AST-4,AST-2,The water recycler is outputting clean water.,The water is black! It's pumping black sludge into the reservoir!,1,1
+AST-3,AST-3,I am holding a wrench.,The wrench is made of flesh. It's pulsing.,3,3
+AST-5,AST-1,We are exactly on the planned trajectory.,We are off course by 90 degrees! We are heading into deep space!,1,1
+AST-2,AST-6,I am feeling perfectly fine.,My heart just stopped. I can feel that it stopped beating.,3,3
+AST-6,AST-6,I should check the battery cells.,Heading over to inspect the power reserves.,0,0
+AST-4,AST-3,Deploying the solar sails for acceleration.,Sails deployed. Picking up solar wind.,0,0
+AST-1,AST-1,I am talking to you on the radio.,Who am I talking to? The radio is unplugged.,3,3
+AST-5,AST-5,The corridor is empty.,There are hundreds of people here. They are all whispering.,3,3
+AST-2,AST-4,Our velocity is 15 kilometers per second.,Velocity is dropping rapidly! We are caught in a gravity well!,1,1
+AST-3,AST-3,I am going to unseal my helmet.,Wait... I don't have my helmet on. Am I outside?,2,2
+AST-6,AST-1,The airlock outer door is securely closed.,The door is wide open! I'm looking right at the stars!,1,1
+AST-4,AST-4,I'm drinking a pouch of coffee.,Consuming my morning caffeine ration.,0,0
+AST-1,AST-5,The reactor core is safe to approach.,Radiation alarm! Do not enter the reactor room!,1,1
+AST-2,AST-2,I am looking at my reflection in the glass.,My reflection is crying. But my face is completely dry.,3,3
+AST-5,AST-3,Sending the probe down to the planet's surface.,Probe is descending. Telemetry is good.,0,0
+AST-6,AST-6,I feel a sense of absolute calm.,I am panicking. I can't breathe. I want to go home.,1,3
+AST-3,AST-1,The ship's AI is functioning normally.,The AI is screaming. It's screaming through the speakers.,3,3
+AST-4,AST-4,I need to tie back my hair.,My hair is falling out in clumps. It's all over the console.,3,3
+AST-1,AST-2,The gyroscopes are perfectly balanced.,We are tumbling end over end! We've lost stability!,1,1
+AST-5,AST-5,I'm going to check the cargo bay.,Did I just come from the cargo bay? I'm so confused.,2,2
+AST-2,AST-6,The food synthesizers are operational.,Synthesizers are offline. We have no way to make food.,1,1
+AST-3,AST-3,I'm looking at the sun.,The sun is black. It's completely black and cold.,3,3
+AST-6,AST-4,Preparing for the hyper-sleep sequence.,Pod temperatures are optimal. Sweet dreams.,0,0
+AST-1,AST-1,I hear a piano playing.,It's a Beethoven sonata. I haven't heard this since Earth.,2,2
+AST-4,AST-5,The comms array is receiving a clear signal.,"It's just static. Deafening, endless white noise.",1,1
+AST-5,AST-5,I am pressing the green button.,The button turned to dust when I touched it.,3,3
+AST-2,AST-1,The heat shields are intact.,Shields are disintegrating! We won't survive the entry!,1,1
+AST-3,AST-3,I'm reading a digital book.,Scrolling through the pages on my tablet.,0,0
+AST-6,AST-2,The gravity is set to Earth normal.,Everything is floating. We have zero G.,1,1
+AST-1,AST-1,I am alone in the universe.,They are coming for me. I can hear their ships.,1,3
+AST-4,AST-3,Checking the structural supports in the lower deck.,Supports are solid. No stress detected.,0,0
+AST-4,AST-2,Commencing the routine thruster diagnostic.,Diagnostic running. All systems green.,0,0
+AST-1,AST-1,I am typing the daily progress report.,Entering today's status into the system log.,0,0
+AST-3,AST-5,The external hull temperature is minus 150.,Hull temperature is spiking to 800 degrees! We are melting!,1,1
+AST-6,AST-6,I'm looking at my spacesuit in the locker.,There is someone inside my suit. They are looking back at me.,3,3
+AST-2,AST-1,The communication array is pointing at Earth.,Earth? The array is pointing at a black hole.,1,1
+AST-5,AST-5,I need to calibrate the oxygen sensors.,Wait... didn't I just do that 5 minutes ago? The tools are still in my hand.,2,2
+AST-3,AST-3,The ship's velocity is stable.,We are moving backwards! The stars are going the wrong way!,1,3
+AST-4,AST-1,Securing the loose cables in the server room.,Cables secured. Good job.,0,0
+AST-2,AST-2,I hear a cat purring under the floorboards.,We don't have pets. It's the ship. It's purring.,3,3
+AST-6,AST-5,The artificial gravity is functioning at 1G.,I'm floating! The gravity is completely off!,1,1
+AST-1,AST-1,I am eating a dehydrated apple.,Consuming my fruit ration for the cycle.,0,0
+AST-3,AST-4,Entering the command codes for the airlock.,Codes accepted. Airlock cycling.,0,0
+AST-5,AST-5,I am alone in the med-bay.,There is a patient on the table. He looks exactly like me.,3,3
+AST-1,AST-6,The solar panels are generating maximum power.,The panels are shattered! A meteor tore right through them!,1,1
+AST-4,AST-4,I'm going to take a nap.,I can't sleep. The walls are whispering my name.,2,2
+AST-2,AST-2,I am reading the emergency evacuation manual.,The pages are blank. Every single page is completely blank.,3,3
+AST-5,AST-1,Adjusting the internal thermostat to 20 degrees.,Temperature set and holding steady.,0,0
+AST-3,AST-2,The cryogenic pods are functioning perfectly.,Pod 2 is failing! The occupant is suffocating in their sleep!,1,1
+AST-6,AST-6,I feel a little dizzy today.,"The room is spinning. No, the whole universe is spinning around me.",2,2
+AST-4,AST-4,My oxygen flow is normal.,I am choking! The tube is filled with blood!,1,3
+AST-1,AST-3,Running a virus scan on the main computer.,Scan complete. No threats found.,0,0
+AST-5,AST-6,I saw a flash of light outside the window.,There is nothing out there. You must be tired.,3,3
+AST-2,AST-4,The water recycling system is 100% efficient.,The water is contaminated! It smells like sulfur!,1,1
+AST-1,AST-1,I need to clean my boots.,"Wait, I haven't worn these boots in months. Why are they covered in red dust?",2,2
+AST-6,AST-5,Initiating the jump drive sequence.,Jump drive spooling up. We are ready.,0,0
+AST-3,AST-3,I'm looking at my reflection in the window.,My reflection is aging rapidly. I'm turning into an old man.,3,3
+AST-4,AST-1,The radar shows no objects in our path.,There is a massive ship right in front of us! It's not on the radar!,1,1
+AST-2,AST-2,I am drinking my morning coffee.,Taking a sip of the warm caffeine substitute.,0,0
+AST-5,AST-3,Adjusting the antenna to frequency 89.4.,Frequency locked. Signal is clear.,0,0
+AST-6,AST-6,The reactor core is safe.,The core is a gateway. I can see hell inside it.,3,3
+AST-1,AST-2,Life support systems are green.,All crew vitals are flatlining! We are all dead!,1,1
+AST-4,AST-4,I'll go check the starboard engines.,Wait... port or starboard? I forgot which side is which.,2,2
+AST-5,AST-5,I am sending a message to my family.,My family never existed. I was grown in a lab for this mission.,3,3
+AST-2,AST-6,Patching the leak in the coolant pipe.,Leak sealed. Pressure is stabilizing.,0,0
+AST-3,AST-4,The greenhouse module is secure.,The glass is cracking! The plants are freezing in the vacuum!,1,1
+AST-1,AST-1,I miss the smell of the ocean.,I can smell saltwater. The ship is filling with seawater.,3,3
+AST-6,AST-6,Checking the airlock seals again.,Did I check them already? I need to check them one more time to be sure.,2,2
+AST-4,AST-5,Preparing the geological samples for analysis.,Microscope is ready for the rock samples.,0,0
+AST-2,AST-1,Battery reserves are at 80 percent.,Batteries are completely drained! We are in the dark!,1,1
+AST-3,AST-3,I need to reset the main breaker.,"I'm pressing the button, but my hand is passing right through the console.",3,3
+AST-5,AST-2,There is a shadow moving in the corridor.,Stop trying to scare me. There is nothing there.,3,3
+AST-1,AST-4,Entering the asteroid belt now.,Deflectors are at maximum power.,0,0
+AST-6,AST-3,The external cameras are functional.,All screens are showing a live feed of my own childhood.,3,3
+AST-5,AST-5,I'm documenting the plant growth.,Writing down the botanical progress in the log.,0,0
+AST-2,AST-2,I'm looking at the sun.,The sun is expanding! It's going to swallow us whole!,1,3
+AST-3,AST-6,Checking the tension on the tether lines.,Tension is optimal. You are safe to proceed.,0,0
+AST-4,AST-1,Oxygen scrubbers are running quietly.,The scrubbers are on fire! The smoke is filling the cabin!,1,1
+AST-2,AST-2,I have a headache.,My head hurts a lot today. Need medicine.,0,0
+AST-1,AST-1,I am putting on my gloves.,Wearing the protective hand gear now.,0,0
+AST-5,AST-4,The telemetry data is syncing.,Data transfer complete. No packet loss.,0,0
+AST-2,AST-5,The external sensors detect a solar flare.,Flare confirmed. Shields adjusting to compensate.,0,0
+AST-1,AST-1,I am running the daily cognitive baseline test.,Completing my psychological evaluation now.,0,0
+AST-4,AST-3,The air conditioning unit is blowing cold air.,It's blowing toxic smoke! The cabin is filling with smoke!,1,1
+AST-6,AST-6,I'm looking at my hands on the console.,My fingers are melting into the keyboard. I can't pull them away.,3,3
+AST-2,AST-1,The rover battery is fully charged.,Rover battery is dead. It won't even turn on.,1,1
+AST-5,AST-5,I need to take my medication.,"Wait... I swallowed the pills, but they are still in my hand.",2,2
+AST-3,AST-3,The ship's trajectory is aligned with the beacon.,The beacon is a lie. It's luring us into a trap. Turn the ship around!,1,3
+AST-4,AST-1,Securing the biological samples in the fridge.,Samples are locked away. Good work.,0,0
+AST-2,AST-2,I hear the hum of the engine core.,It's not humming. It's singing a lullaby from my childhood.,3,3
+AST-6,AST-5,The oxygen pressure is dropping in sector 4!,Pressure is completely stable here. Check your gauges.,1,1
+AST-1,AST-1,I am looking at the star map.,Reviewing the navigational charts for the current sector.,0,0
+AST-3,AST-4,Entering the sleep pod for my rotation.,Pod secured. Have a good rest cycle.,0,0
+AST-5,AST-5,I am alone in the observation deck.,The stars are forming faces. They are all judging me.,3,3
+AST-1,AST-6,The water recycler is processing efficiently.,The recycler is broken! Water is pooling on the floor!,1,1
+AST-4,AST-4,I'm going to read a book to relax.,I can't read the words. The letters are rearranging themselves.,2,2
+AST-2,AST-2,I am looking at the Earth.,"The Earth is blinking. It's a giant eye, and it just blinked at me.",3,3
+AST-5,AST-1,Adjusting the internal lights for the night cycle.,Lights dimmed to 10 percent.,0,0
+AST-3,AST-2,The cryogenic pods are safely sealed.,Pod 1 is open! Someone got out while we were sleeping!,1,1
+AST-6,AST-6,I feel perfectly normal today.,Uhm... why am I wearing my EVA suit in the kitchen?,2,2
+AST-4,AST-4,My heart rate monitor shows 70 BPM.,My heart stopped. The monitor says zero. I am a walking corpse.,1,3
+AST-1,AST-3,Running the diagnostic on the comms laser.,Laser is aligned and fully functional.,0,0
+AST-5,AST-6,I saw a figure moving outside the hull.,You've been working too long. There's no one out there.,3,3
+AST-2,AST-4,The hydroponics bay is yielding a good crop.,The plants are dead! They turned black and withered in seconds!,1,1
+AST-1,AST-1,I need to clean the camera lens.,Wiping the dust off the external optical sensor.,0,0
+AST-6,AST-5,Initiating the plasma vent sequence.,Venting plasma now. Sequence looks good.,0,0
+AST-3,AST-3,I'm looking at the mission clock.,The clock is ticking backwards. We are losing time.,3,3
+AST-4,AST-1,The radar shows the docking bay is clear.,There is a massive derelict ship blocking the bay!,1,1
+AST-2,AST-2,I am drinking my daily water ration.,Consuming my fluid intake for the morning.,0,0
+AST-5,AST-3,Adjusting the frequency on the long-range antenna.,Signal locked. We have contact.,0,0
+AST-6,AST-6,The reactor core is safe.,The core is a heartbeat. It's the heart of a dead god.,3,3
+AST-1,AST-2,Life support systems are green.,Carbon dioxide levels are critical! We are suffocating!,1,1
+AST-4,AST-4,I'll go check the port-side thrusters.,Wait... didn't the captain tell me never to go there? Or was it a dream?,2,2
+AST-5,AST-5,I am sending a message to mission control.,Mission control is a simulation. We are part of a grand experiment.,3,3
+AST-2,AST-6,Patching the micro-fracture on the window.,Sealant applied. The glass is holding.,0,0
+AST-3,AST-4,The greenhouse module is secure.,The glass just shattered! Explosive decompression!,1,1
+AST-1,AST-1,I miss the feeling of gravity.,I can feel gravity pulling me sideways into the wall.,3,3
+AST-6,AST-6,Checking the airlock seals for the third time.,Are they closed? I should check a fourth time just to be safe.,2,2
+AST-4,AST-5,Preparing the rock samples for the spectrometer.,Samples are loaded and ready for analysis.,0,0
+AST-2,AST-1,Battery reserves are at 80 percent.,We lost all power! The grid just collapsed!,1,1
+AST-3,AST-3,I need to reset the main breaker.,"I flicked the switch, but the switch dissolved into dust.",3,3
+AST-5,AST-2,There is a shadow moving in the corridor.,Stop trying to scare me. There is nothing there.,3,3
+AST-1,AST-4,Entering the asteroid belt now.,Deflectors are at maximum power.,0,0
+AST-6,AST-3,The external cameras are functional.,The cameras are showing me standing behind myself.,3,3
+AST-5,AST-5,I'm documenting the plant growth.,Writing down the botanical progress in the log.,0,0
+AST-2,AST-2,I'm looking at the sun.,"The sun is screaming. It's a blinding, deafening scream.",3,3
+AST-3,AST-6,Checking the tension on the tether lines.,Tension is optimal. You are safe to proceed.,0,0
+AST-4,AST-1,Oxygen scrubbers are running quietly.,The scrubbers are grinding metal! It sounds like they are tearing themselves apart!,1,1
+AST-2,AST-2,I have a headache.,My head hurts a lot today. Need medicine.,0,0
+AST-1,AST-1,I am putting on my gloves.,Wearing the protective hand gear now.,0,0
+AST-5,AST-4,The telemetry data is syncing.,Data transfer complete. No packet loss.,0,0
+AST-5,AST-2,The centrifuge is spinning at optimal velocity.,Centrifuge confirmed. G-forces are stable.,0,0
+AST-1,AST-1,I am preparing the botanical samples.,Getting the plant specimens ready for analysis.,0,0
+AST-4,AST-3,Radiation levels in the core are dropping.,Radiation is spiking! The Geiger counter is screaming!,1,1
+AST-6,AST-6,I'm looking at my hands.,My skin is translucent. I can see the gears underneath.,3,3
+AST-2,AST-1,The atmospheric scrubbers are online.,The scrubbers are offline. We are breathing unfiltered air.,1,1
+AST-5,AST-5,I need to calibrate the laser drill.,"Wait, I don't know how to use a laser drill. Who taught me that?",2,2
+AST-3,AST-3,The ship is moving forward at maximum speed.,We are not moving. We've been parked in the same spot for centuries.,1,3
+AST-4,AST-1,Securing the airlock doors for the night cycle.,Doors locked. Have a good shift.,0,0
+AST-2,AST-2,I hear a ticking sound in the wall.,It's a bomb. The ship planted a bomb to get rid of us.,3,3
+AST-6,AST-5,The primary life support is fully functional.,Life support is failing! Temperature is dropping fast!,1,1
+AST-1,AST-1,I am drinking a pouch of recycled water.,Taking a sip from the hydration pack.,0,0
+AST-3,AST-4,Entering the coordinates for the next jump.,Coordinates verified. Ready to initiate.,0,0
+AST-5,AST-5,I am alone in the server room.,There is a child sitting on the servers. He is crying.,3,3
+AST-1,AST-6,The solar arrays are tracking the sun.,The arrays are stuck! They are pointing into the void!,1,1
+AST-4,AST-4,I'm going to take a 10-minute break.,Is it 10 minutes? Or 10 years? I can't tell the difference anymore.,2,2
+AST-2,AST-2,I am reading the ship's history log.,The log ends yesterday. There is no tomorrow written in the code.,3,3
+AST-5,AST-1,Adjusting the thruster output by 5 percent.,Thruster adjustment confirmed. Smooth sailing.,0,0
+AST-3,AST-2,The cryogenic pods are safely sealed.,Pod 3 is breached! The glass is completely shattered!,1,1
+AST-6,AST-6,I feel perfectly normal today.,"Wait, I said that yesterday. And the day before. Am I stuck in a loop?",2,2
+AST-4,AST-4,My blood pressure is completely normal.,My veins are filled with liquid nitrogen. I am freezing from the inside.,1,3
+AST-1,AST-3,Running the diagnostic on the comms laser.,Laser is aligned and fully functional.,0,0
+AST-5,AST-6,I saw a figure moving outside the hull.,You've been working too long. There's no one out there.,3,3
+AST-2,AST-4,The hydroponics bay is yielding a good crop.,The plants are dead! They turned black and withered in seconds!,1,1
+AST-1,AST-1,I need to clean the camera lens.,Wiping the dust off the external optical sensor.,0,0
+AST-6,AST-5,Initiating the plasma vent sequence.,Venting plasma now. Sequence looks good.,0,0
+AST-3,AST-3,I'm looking at the mission clock.,The clock is ticking backwards. We are losing time.,3,3
+AST-4,AST-1,The radar shows the docking bay is clear.,There is a massive derelict ship blocking the bay!,1,1
+AST-2,AST-2,I am drinking my daily water ration.,Consuming my fluid intake for the morning.,0,0
+AST-5,AST-3,Adjusting the frequency on the long-range antenna.,Signal locked. We have contact.,0,0
+AST-6,AST-6,The reactor core is safe.,The core is a heartbeat. It's the heart of a dead god.,3,3
+AST-1,AST-2,Life support systems are green.,Carbon dioxide levels are critical! We are suffocating!,1,1
+AST-4,AST-4,I'll go check the port-side thrusters.,Wait... didn't the captain tell me never to go there? Or was it a dream?,2,2
+AST-5,AST-5,I am sending a message to mission control.,Mission control is a simulation. We are part of a grand experiment.,3,3
+AST-2,AST-6,Patching the micro-fracture on the window.,Sealant applied. The glass is holding.,0,0
+AST-3,AST-4,The greenhouse module is secure.,The glass just shattered! Explosive decompression!,1,1
+AST-1,AST-1,I miss the feeling of gravity.,I can feel gravity pulling me sideways into the wall.,3,3
+AST-6,AST-6,Checking the airlock seals for the third time.,Are they closed? I should check a fourth time just to be safe.,2,2
+AST-4,AST-5,Preparing the rock samples for the spectrometer.,Samples are loaded and ready for analysis.,0,0
+AST-2,AST-1,Battery reserves are at 80 percent.,We lost all power! The grid just collapsed!,1,1
+AST-3,AST-3,I need to reset the main breaker.,"I flicked the switch, but the switch dissolved into dust.",3,3
+AST-5,AST-2,There is a shadow moving in the corridor.,Stop trying to scare me. There is nothing there.,3,3
+AST-1,AST-4,Entering the asteroid belt now.,Deflectors are at maximum power.,0,0
+AST-6,AST-3,The external cameras are functional.,The cameras are showing me standing behind myself.,3,3
+AST-5,AST-5,I'm documenting the plant growth.,Writing down the botanical progress in the log.,0,0
+AST-2,AST-2,I'm looking at the sun.,"The sun is screaming. It's a blinding, deafening scream.",3,3
+AST-3,AST-6,Checking the tension on the tether lines.,Tension is optimal. You are safe to proceed.,0,0
+AST-4,AST-1,Oxygen scrubbers are running quietly.,The scrubbers are grinding metal! It sounds like they are tearing themselves apart!,1,1
+AST-2,AST-2,I have a headache.,My head hurts a lot today. Need medicine.,0,0
+AST-1,AST-1,I am putting on my gloves.,Wearing the protective hand gear now.,0,0
+AST-5,AST-4,The telemetry data is syncing.,Data transfer complete. No packet loss.,0,0
+AST-5,AST-2,The centrifuge is spinning at optimal velocity.,Centrifuge confirmed. G-forces are stable.,0,0
+AST-1,AST-1,I am preparing the botanical samples.,Getting the plant specimens ready for analysis.,0,0
+AST-4,AST-3,Radiation levels in the core are dropping.,Radiation is spiking! The Geiger counter is screaming!,1,1
+AST-6,AST-6,I'm looking at my hands.,My skin is translucent. I can see the gears underneath.,3,3
+AST-2,AST-1,The atmospheric scrubbers are online.,The scrubbers are offline. We are breathing unfiltered air.,1,1
+AST-5,AST-5,I need to calibrate the laser drill.,"Wait, I don't know how to use a laser drill. Who taught me that?",2,2
+AST-3,AST-3,The ship is moving forward at maximum speed.,We are not moving. We've been parked in the same spot for centuries.,1,3
+AST-4,AST-1,Securing the airlock doors for the night cycle.,Doors locked. Have a good shift.,0,0
+AST-2,AST-2,I hear a ticking sound in the wall.,It's a bomb. The ship planted a bomb to get rid of us.,3,3
+AST-6,AST-5,The primary life support is fully functional.,Life support is failing! Temperature is dropping fast!,1,1
+AST-1,AST-1,I am drinking a pouch of recycled water.,Taking a sip from the hydration pack.,0,0
+AST-3,AST-4,Entering the coordinates for the next jump.,Coordinates verified. Ready to initiate.,0,0
+AST-5,AST-5,I am alone in the server room.,There is a child sitting on the servers. He is crying.,3,3
+AST-1,AST-6,The solar arrays are tracking the sun.,The arrays are stuck! They are pointing into the void!,1,1
+AST-4,AST-4,I'm going to take a 10-minute break.,Is it 10 minutes? Or 10 years? I can't tell the difference anymore.,2,2
+AST-2,AST-2,I am reading the ship's history log.,The log ends yesterday. There is no tomorrow written in the code.,3,3
+AST-5,AST-1,Adjusting the thruster output by 5 percent.,Thruster adjustment confirmed. Smooth sailing.,0,0
+AST-3,AST-2,The cryogenic pods are safely sealed.,Pod 3 is breached! The glass is completely shattered!,1,1
+AST-6,AST-6,I feel perfectly normal today.,"Wait, I said that yesterday. And the day before. Am I stuck in a loop?",2,2
+AST-4,AST-4,My blood pressure is completely normal.,My veins are filled with liquid nitrogen. I am freezing from the inside.,1,3
+AST-1,AST-3,Running the diagnostic on the comms laser.,Laser is aligned and fully functional.,0,0
+AST-5,AST-6,I saw a figure moving outside the hull.,You've been working too long. There's no one out there.,3,3
+AST-2,AST-4,The hydroponics bay is yielding a good crop.,The plants are dead! They turned black and withered in seconds!,1,1
+AST-1,AST-1,I need to clean the camera lens.,Wiping the dust off the external optical sensor.,0,0
+AST-6,AST-5,Initiating the plasma vent sequence.,Venting plasma now. Sequence looks good.,0,0
+AST-3,AST-3,I'm looking at the mission clock.,The clock is ticking backwards. We are losing time.,3,3
+AST-4,AST-1,The radar shows the docking bay is clear.,There is a massive derelict ship blocking the bay!,1,1
+AST-2,AST-2,I am drinking my daily water ration.,Consuming my fluid intake for the morning.,0,0
+AST-5,AST-3,Adjusting the frequency on the long-range antenna.,Signal locked. We have contact.,0,0
+AST-6,AST-6,The reactor core is safe.,The core is a heartbeat. It's the heart of a dead god.,3,3
+AST-1,AST-2,Life support systems are green.,Carbon dioxide levels are critical! We are suffocating!,1,1
+AST-4,AST-4,I'll go check the port-side thrusters.,Wait... didn't the captain tell me never to go there? Or was it a dream?,2,2
+AST-5,AST-5,I am sending a message to mission control.,Mission control is a simulation. We are part of a grand experiment.,3,3
+AST-2,AST-6,Patching the micro-fracture on the window.,Sealant applied. The glass is holding.,0,0
+AST-3,AST-4,The greenhouse module is secure.,The glass just shattered! Explosive decompression!,1,1
+AST-1,AST-1,I miss the feeling of gravity.,I can feel gravity pulling me sideways into the wall.,3,3
+AST-6,AST-6,Checking the airlock seals for the third time.,Are they closed? I should check a fourth time just to be safe.,2,2
+AST-4,AST-5,Preparing the rock samples for the spectrometer.,Samples are loaded and ready for analysis.,0,0
+AST-2,AST-1,Battery reserves are at 80 percent.,We lost all power! The grid just collapsed!,1,1
+AST-3,AST-3,I need to reset the main breaker.,"I flicked the switch, but the switch dissolved into dust.",3,3
+AST-5,AST-2,There is a shadow moving in the corridor.,Stop trying to scare me. There is nothing there.,3,3
+AST-1,AST-4,Entering the asteroid belt now.,Deflectors are at maximum power.,0,0
+AST-6,AST-3,The external cameras are functional.,The cameras are showing me standing behind myself.,3,3
+AST-5,AST-5,I'm documenting the plant growth.,Writing down the botanical progress in the log.,0,0
+AST-2,AST-2,I'm looking at the sun.,"The sun is screaming. It's a blinding, deafening scream.",3,3
+AST-3,AST-6,Checking the tension on the tether lines.,Tension is optimal. You are safe to proceed.,0,0
+AST-4,AST-1,Oxygen scrubbers are running quietly.,The scrubbers are grinding metal! It sounds like they are tearing themselves apart!,1,1
+AST-2,AST-2,I have a headache.,My head hurts a lot today. Need medicine.,0,0
+AST-1,AST-1,I am putting on my gloves.,Wearing the protective hand gear now.,0,0
+AST-5,AST-4,The telemetry data is syncing.,Data transfer complete. No packet loss.,0,0
+AST-2,AST-3,Deploying the communication relay buoy.,Relay buoy is away and transmitting.,0,0
+AST-1,AST-1,I am checking the carbon dioxide filters.,Inspecting the CO2 scrubbers now.,0,0
+AST-4,AST-5,Main engine temperature is stable.,Engine temperature is critical! We are venting plasma!,1,1
+AST-6,AST-6,I am looking at the airlock door.,The door is breathing. I can see its chest rising and falling.,3,3
+AST-2,AST-1,The solar radiation levels are safe.,Radiation is off the charts! We are being cooked alive!,1,1
+AST-5,AST-5,I need to reset the main computer.,Did I just press the button? My finger is numb.,2,2
+AST-3,AST-3,The ship is holding its orbit around Mars.,Mars is gone. The entire planet is just gone. Look out the window!,1,3
+AST-4,AST-1,Securing the tools in the zero-G bay.,Tools are locked down. Good job.,0,0
+AST-2,AST-2,I hear a faint humming sound.,The hum is a voice. It's telling me to take off my helmet.,3,3
+AST-6,AST-5,The external comms antenna is aligned.,Antenna is completely severed! We have no connection!,1,1
+AST-1,AST-1,I am eating my morning protein bar.,Consuming the breakfast supplement block.,0,0
+AST-3,AST-4,Entering the atmospheric entry coordinates.,Coordinates locked. Brace for turbulence.,0,0
+AST-5,AST-5,I am alone in the hydroponics lab.,There are people buried in the soil. I can see their faces.,3,3
+AST-1,AST-6,The water pressure is nominal.,The pipes burst! Water is flooding the lower deck!,1,1
+AST-4,AST-4,I'm going to take a nap in my pod.,I can't sleep. The pod feels like a coffin. It's too tight.,2,2
+AST-2,AST-2,I am reading the mission protocols.,The words are written in a language that hasn't been invented yet.,3,3
+AST-5,AST-1,Adjusting the thruster output for orbital correction.,We are plummeting towards the surface! Thrusters are offline!,1,1
+AST-3,AST-2,The cryogenic pods are safely sealed.,Pod 2 is empty. It's been empty the whole trip. Who was in it?,1,1
+AST-6,AST-6,I feel perfectly normal today.,"Wait, I am not normal. I am a machine. I can feel the wires inside me.",1,3
+AST-4,AST-4,My oxygen levels are reading 98 percent.,My helmet is filling with blood! I can't see!,1,3
+AST-1,AST-3,I am securing the exterior panels.,The panels are completely melted. The hull is exposed.,1,1
+AST-5,AST-6,The navigation computer shows a clear path.,We are flying right into a black hole! Turn around!,1,1
+AST-2,AST-2,I'm staring at the digital calendar.,The calendar shows the date of my death. It's today.,3,3
+AST-4,AST-4,I am tightening the bolts on the airlock.,Making sure the airlock is completely fastened.,0,0
+AST-6,AST-5,Initiating the daily server backup.,"The servers are wiped! Decades of research, all gone!",1,1
+AST-3,AST-3,I am holding my breath.,Why am I holding my breath? I don't remember.,2,2
+AST-4,AST-1,The primary engine is firing at full capacity.,We are decelerating rapidly! Inertia dampeners failing!,1,1
+AST-2,AST-2,I am eating my dinner.,This isn't food. It's plastic. We've been eating plastic for years.,3,3
+AST-5,AST-3,Adjusting the cabin humidity to 45 percent.,Humidity is at 100 percent. It's raining inside the ship.,1,1
+AST-6,AST-6,The reactor is glowing blue.,The reactor is completely dark. We have no power.,1,3
+AST-1,AST-2,All crew members are present and accounted for.,I am the only one left. I buried the others weeks ago.,1,1
+AST-4,AST-4,I'll check the oxygen lines.,I'm looking at the lines. They look like snakes. They are moving.,3,3
+AST-5,AST-5,I am writing down the star coordinates.,Documenting the current stellar positioning.,0,0
+AST-2,AST-6,Patching the thermal insulation in sector 4.,Insulation is completely burned away. The hull is glowing red.,1,1
+AST-3,AST-4,The greenhouse module is perfectly sealed.,The plants are breaking through the glass! They are mutating!,1,1
+AST-1,AST-1,I miss the smell of rain.,I can smell burning ozone. Something is on fire.,1,3
+AST-6,AST-6,Checking the flight logs.,The logs are full of zeros. Just endless zeros.,2,2
+AST-4,AST-5,Preparing the telescope for deep space observation.,The telescope lens is shattered. We are blind.,1,1
+AST-2,AST-1,Battery reserves are full.,Batteries are overheating! They are going to explode!,1,1
+AST-3,AST-3,I need to close the blast doors.,Securing the primary bulkheads now.,0,0
+AST-5,AST-2,There is a rat in the food storage.,I saw it too. A huge rat. In deep space. How?,1,1
+AST-1,AST-4,Entering the synchronous orbit now.,We missed the orbit! We are being slingshotted into deep space!,1,1
+AST-6,AST-6,The external cameras are functional.,The cameras show a massive creature wrapped around the ship.,3,3
+AST-5,AST-5,I'm documenting the chemical reaction.,The acid just ate through the table! It's eating the floor!,1,3
+AST-2,AST-2,I'm looking at the Earth.,Earth is split in half. The core is exposed. We failed.,3,3
+AST-3,AST-6,Checking the suit pressure before the EVA.,Pressure is nominal. You are cleared for spacewalk.,0,0
+AST-4,AST-1,The air scrubbers are working fine.,They are pumping toxic gas! We are being poisoned!,1,1
+AST-2,AST-2,I feel sick to my stomach.,My stomach is hurting today. I need to rest.,0,0
+AST-1,AST-1,I am tying my boots.,Securing the laces on my footwear.,0,0
+AST-5,AST-4,The telemetry data is syncing perfectly.,Data corrupted! We are receiving junk data!,1,1
+AST-4,AST-2,Calibrating the magnetic boots for zero-G.,Boots are holding firm to the deck.,0,0
+AST-1,AST-1,I am preparing the nutrient paste.,Getting the food substitute ready for consumption.,0,0
+AST-3,AST-5,The primary comms array is functioning perfectly.,We are completely jammed! The array is dead!,1,1
+AST-6,AST-6,I'm looking in the mirror.,I don't have a face anymore. It's just smooth skin.,3,3
+AST-2,AST-1,Hull integrity is at 100 percent.,We have a massive hull breach in sector 7!,1,1
+AST-5,AST-5,I need to put on my helmet.,Did I already put it on? I can't feel my head.,2,2
+AST-3,AST-3,Engine thrust is completely stable.,We are flying backwards through time! Look at the clocks!,1,3
+AST-4,AST-1,Securing the cargo bay doors.,Doors are locked and sealed.,0,0
+AST-2,AST-2,I hear the hum of the engine.,The engine is reciting poetry in a dead language.,3,3
+AST-6,AST-5,Oxygen levels are nominal in the sleeping quarters.,Oxygen is dropping fast! We are suffocating!,1,1
+AST-1,AST-1,I am running a diagnostic on the ship's AI.,Running the system check on the main computer.,0,0
+AST-3,AST-4,Entering the launch codes for the probe.,Codes verified. Probe is away.,0,0
+AST-5,AST-5,I am alone in the airlock.,The walls are closing in. They are trying to crush me.,3,3
+AST-1,AST-6,The solar arrays are absorbing maximum light.,The arrays are covered in ice! We are freezing!,1,1
+AST-4,AST-4,I'm going to take a 10-minute break.,I can't stop working. The ship gets angry when I stop.,2,2
+AST-2,AST-2,I am reading the maintenance manual.,The letters are dripping blood onto my hands.,3,3
+AST-5,AST-1,Adjusting the thruster output for orbital correction.,Correction applied. Orbit stabilizing.,0,0
+AST-3,AST-2,The cryogenic pods are safely sealed.,Pod 4 is open! The captain is gone!,1,1
+AST-6,AST-6,I feel perfectly normal today.,I am not normal. I am infected. The alien spores are inside me.,1,3
+AST-4,AST-4,My oxygen levels are reading 98 percent.,My tank is empty. I am breathing pure vacuum.,1,3
+AST-1,AST-3,I am securing the exterior panels.,Panels locked and bolted. Good job.,0,0
+AST-5,AST-6,The navigation computer shows a clear path.,Path is blocked by an uncharted nebula!,1,1
+AST-2,AST-2,I'm staring at the digital calendar.,The year says 1999. Have we traveled back in time?,3,3
+AST-4,AST-4,I am tightening the bolts on the airlock.,Securing the primary entry point with the wrench.,0,0
+AST-6,AST-5,Initiating the daily server backup.,Backup in progress. 40 percent complete.,0,0
+AST-3,AST-3,I am holding my breath.,I don't need to breathe anymore. The vacuum feels so nice.,3,3
+AST-4,AST-1,The primary engine is firing at full capacity.,The engine is dead! We are dead in space!,1,1
+AST-2,AST-2,I am eating my dinner.,Consuming the evening meal packet.,0,0
+AST-5,AST-3,Adjusting the cabin humidity to 45 percent.,Humidity locked in.,0,0
+AST-6,AST-6,The reactor is glowing blue.,The light is speaking to me. It tells me to open the core.,3,3
+AST-1,AST-2,All crew members are present and accounted for.,"Crew member 7 is missing! Wait, we only have a crew of 6...",1,1
+AST-4,AST-4,I'll check the oxygen lines.,Did I just check the lines? The tools are already in my hand.,2,2
+AST-5,AST-5,I am writing down the star coordinates.,The stars are forming the shape of a giant eye.,3,3
+AST-2,AST-6,Patching the thermal insulation in sector 4.,Insulation patched. Temperature is rising to normal.,0,0
+AST-3,AST-4,The greenhouse module is perfectly sealed.,There's a massive hole in the ceiling! We are venting!,1,1
+AST-1,AST-1,I miss the smell of rain.,It's raining inside the ship. My suit is soaking wet.,3,3
+AST-6,AST-6,Checking the flight logs.,I need to check them again. Just to be absolutely sure.,2,2
+AST-4,AST-5,Preparing the telescope for deep space observation.,Lenses calibrated. Ready for viewing.,0,0
+AST-2,AST-1,Battery reserves are full.,We are at 2 percent power! All systems failing!,1,1
+AST-3,AST-3,I need to close the blast doors.,My fingers are phasing through the console. I am a ghost.,3,3
+AST-5,AST-2,There is a rat in the food storage.,We are in deep space. There are no rats here.,1,1
+AST-1,AST-4,Entering the synchronous orbit now.,Orbit established. Engines on standby.,0,0
+AST-6,AST-6,The external cameras are functional.,The cameras show me sleeping in my bed. But I am standing here.,3,3
+AST-5,AST-5,I'm documenting the chemical reaction.,Logging the results of the acid test.,0,0
+AST-2,AST-2,I'm looking at the Earth.,"Earth has been replaced by a giant, black sphere.",3,3
+AST-3,AST-6,Checking the suit pressure before the EVA.,Pressure is nominal. You are cleared for spacewalk.,0,0
+AST-4,AST-1,The air scrubbers are working fine.,They are pumping toxic gas! We are being poisoned!,1,1
+AST-2,AST-2,I feel sick to my stomach.,My stomach is hurting today. I need to rest.,0,0
+AST-1,AST-1,I am tying my boots.,Securing the laces on my footwear.,0,0
+AST-5,AST-4,The telemetry data is syncing perfectly.,Data corrupted! We are receiving junk data!,1,1
+AST-1,AST-2,The primary centrifuge is vibrating slightly.,Vibration is within normal limits. Don't worry.,0,0
+AST-3,AST-3,I am writing down the daily coordinates.,Logging the navigation numbers into the system now.,0,0
+AST-4,AST-5,The comms array is receiving a signal from Earth.,Earth is silent. We haven't received a signal in months.,1,1
+AST-6,AST-6,I am looking at my reflection in the monitor.,My reflection is missing its eyes. Just empty sockets.,3,3
+AST-2,AST-1,The atmospheric pressure in the bay is stable.,Pressure is dropping rapidly! Seal your suit!,1,1
+AST-5,AST-5,I need to calibrate the laser scalpel.,My hand is passing right through the handle. I can't grab it.,3,3
+AST-3,AST-3,The ship's velocity is holding at Mach 20.,We are completely stationary. The stars haven't moved in days.,1,3
+AST-4,AST-1,Securing the biological samples in the freezer.,Samples are locked and frozen.,0,0
+AST-2,AST-2,I hear a scratching sound from the airlock.,Something wants to come inside. It says it's cold.,3,3
+AST-6,AST-5,The external comms antenna is aligned.,Antenna is completely severed! We have no connection!,1,1
+AST-1,AST-1,I am running a diagnostic on the ship's AI.,Running the system check on the main computer.,0,0
+AST-3,AST-4,Entering the launch codes for the probe.,Codes verified. Probe is away.,0,0
+AST-5,AST-5,I am alone in the airlock.,The walls are closing in. They are trying to crush me.,3,3
+AST-1,AST-6,The solar arrays are absorbing maximum light.,The arrays are covered in thick black sludge!,1,1
+AST-4,AST-4,I'm going to take a 10-minute break.,I can't stop working. The ship gets angry when I stop.,2,2
+AST-2,AST-2,I am reading the maintenance manual.,The letters are dripping blood onto my hands.,3,3
+AST-5,AST-1,Adjusting the thruster output for orbital correction.,Correction applied. Orbit stabilizing.,0,0
+AST-3,AST-2,The cryogenic pods are safely sealed.,Pod 4 is open! The captain is gone!,1,1
+AST-6,AST-6,I feel perfectly normal today.,I am not normal. I am infected. The alien spores are inside me.,1,3
+AST-4,AST-4,My oxygen levels are reading 98 percent.,My tank is empty. I am breathing pure vacuum.,1,3
+AST-1,AST-3,I am securing the exterior panels.,Panels locked and bolted. Good job.,0,0
+AST-5,AST-6,The navigation computer shows a clear path.,Path is blocked by an uncharted nebula!,1,1
+AST-2,AST-2,I'm staring at the digital calendar.,The year says 1999. Have we traveled back in time?,3,3
+AST-4,AST-4,I am tightening the bolts on the airlock.,Securing the primary entry point with the wrench.,0,0
+AST-6,AST-5,Initiating the daily server backup.,Backup in progress. 40 percent complete.,0,0
+AST-3,AST-3,I am holding my breath.,I don't need to breathe anymore. The vacuum feels so nice.,3,3
+AST-4,AST-1,The primary engine is firing at full capacity.,The engine is dead! We are dead in space!,1,1
+AST-2,AST-2,I am eating my dinner.,Consuming the evening meal packet.,0,0
+AST-5,AST-3,Adjusting the cabin humidity to 45 percent.,Humidity locked in.,0,0
+AST-6,AST-6,The reactor is glowing blue.,The light is speaking to me. It tells me to open the core.,3,3
+AST-1,AST-2,All crew members are present and accounted for.,"Crew member 7 is missing! Wait, we only have a crew of 6...",1,1
+AST-4,AST-4,I'll check the oxygen lines.,Did I just check the lines? The tools are already in my hand.,2,2
+AST-5,AST-5,I am writing down the star coordinates.,The stars are forming the shape of a giant eye.,3,3
+AST-2,AST-6,Patching the thermal insulation in sector 4.,Insulation patched. Temperature is rising to normal.,0,0
+AST-3,AST-4,The greenhouse module is perfectly sealed.,There's a massive hole in the ceiling! We are venting!,1,1
+AST-1,AST-1,I miss the smell of rain.,It's raining inside the ship. My suit is soaking wet.,3,3
+AST-6,AST-6,Checking the flight logs.,I need to check them again. Just to be absolutely sure.,2,2
+AST-4,AST-5,Preparing the telescope for deep space observation.,Lenses calibrated. Ready for viewing.,0,0
+AST-2,AST-1,Battery reserves are full.,We are at 2 percent power! All systems failing!,1,1
+AST-3,AST-3,I need to close the blast doors.,My fingers are phasing through the console. I am a ghost.,3,3
+AST-5,AST-2,There is a rat in the food storage.,We are in deep space. There are no rats here.,1,1
+AST-1,AST-4,Entering the synchronous orbit now.,Orbit established. Engines on standby.,0,0
+AST-6,AST-6,The external cameras are functional.,The cameras show me sleeping in my bed. But I am standing here.,3,3
+AST-5,AST-5,I'm documenting the chemical reaction.,Logging the results of the acid test.,0,0
+AST-2,AST-2,I'm looking at the Earth.,"Earth has been replaced by a giant, black sphere.",3,3
+AST-3,AST-6,Checking the suit pressure before the EVA.,Pressure is nominal. You are cleared for spacewalk.,0,0
+AST-4,AST-1,The air scrubbers are working fine.,They are pumping toxic gas! We are being poisoned!,1,1
+AST-2,AST-2,I feel sick to my stomach.,My stomach is hurting today. I need to rest.,0,0
+AST-1,AST-1,I am tying my boots.,Securing the laces on my footwear.,0,0
+AST-5,AST-4,The telemetry data is syncing perfectly.,Data corrupted! We are receiving junk data!,1,1
+AST-1,AST-2,Aligning the communication dish to sector 4.,Alignment confirmed. Signal strength is good.,0,0
+AST-3,AST-3,I am analyzing the background acoustics of the ship.,Focusing on the ambient instrumentation of the hull.,0,0
+AST-4,AST-5,The external radiation shielding is intact.,Shields are down! We are taking massive radiation!,1,1
+AST-6,AST-6,I'm looking at my hands.,My fingers are turning into piano keys.,3,3
+AST-2,AST-1,The hydroponics bay is fully oxygenated.,Oxygen is at zero in the bay! Plants are dying!,1,1
+AST-5,AST-5,I need to reset the cognitive interface.,Did I just reset it? I can't trust my own memory.,2,2
+AST-3,AST-3,The ship's velocity is matching the orbital mechanics.,We are falling. The math is completely wrong. We are dropping like a stone.,1,3
+AST-4,AST-1,Securing the biological samples in the freezer.,Samples are locked and frozen.,0,0
+AST-2,AST-2,I hear a strange melody coming from the vents.,It's an alternative rock song. Who is playing music in the vents?,3,3
+AST-6,AST-5,The rover camera is transmitting.,Camera feed is pure static!,1,1
+AST-1,AST-1,I am reviewing the cognitive science literature.,Reading up on the latest theories of mind and perception.,0,0
+AST-3,AST-4,Initiating the plasma drive sequence.,Plasma sequence locked and firing.,0,0
+AST-5,AST-5,I am taking my helmet off.,The air smells like burning hair and copper.,3,3
+AST-1,AST-6,The battery cells are charging.,They are draining rapidly! We are losing power!,1,1
+AST-4,AST-4,I am looking at my reflection.,My reflection is five seconds behind my movements.,3,3
+AST-2,AST-2,I'm checking the air pressure.,"Wait, checking the air pressure again just to be safe.",2,2
+AST-5,AST-1,Deploying the atmospheric entry parachutes.,Chutes deployed successfully.,0,0
+AST-3,AST-2,The med-bay is fully stocked.,All the syringes are empty! Someone emptied them!,1,1
+AST-6,AST-6,I am perfectly healthy.,My bones are turning to dust. I can feel them crumbling.,1,3
+AST-4,AST-4,The water recycler is full.,The recycler is completely dry! Not a drop left!,1,3
+AST-1,AST-3,Engaging the magnetic locks on the cargo.,Locks engaged. Cargo is secure.,0,0
+AST-5,AST-6,The star-tracker has a lock on Orion.,Orion is gone! The entire constellation is missing!,1,1
+AST-2,AST-2,I am typing on the console.,The keys are made of teeth. Human teeth.,3,3
+AST-4,AST-4,I am tightening the bolts on the airlock.,Securing the primary entry point with the wrench.,0,0
+AST-6,AST-5,Updating the firmware on the rover.,Firmware update complete.,0,0
+AST-3,AST-3,I am listening to the silence.,The silence has a frequency. It's deafening.,3,3
+AST-4,AST-1,The hull temperature is normal.,The hull is freezing! It's minus 200 degrees inside!,1,1
+AST-2,AST-2,I am folding my spacesuit.,Putting away my EVA gear into the locker.,0,0
+AST-5,AST-3,Sending the telemetry burst to Houston.,Burst sent and acknowledged.,0,0
+AST-6,AST-6,I am turning on the flashlight.,The light is casting shadows that move on their own.,3,3
+AST-1,AST-2,Main thrusters are perfectly synchronized.,Thruster 2 is misfiring! We are spinning!,1,1
+AST-4,AST-4,I'll check the oxygen lines.,"I am looking at the lines... wait, why am I holding a knife?",2,2
+AST-5,AST-5,I am writing down the star coordinates.,The stars are bleeding red light into the cabin.,3,3
+AST-2,AST-6,Calibrating the internal chronometer.,Time is synced with mission control.,0,0
+AST-3,AST-4,The greenhouse module is perfectly sealed.,The glass is melting! It's turning into liquid!,1,1
+AST-1,AST-1,I am looking at the moon.,The moon is hatching. Something is coming out of it.,3,3
+AST-6,AST-6,Checking the flight logs.,I need to check them again. Just to be absolutely sure.,2,2
+AST-4,AST-5,Preparing the telescope for deep space observation.,Lenses calibrated. Ready for viewing.,0,0
+AST-2,AST-1,Battery reserves are full.,We are at 2 percent power! All systems failing!,1,1
+AST-3,AST-3,I need to close the blast doors.,The doors are made of flesh. They are pulsating.,3,3
+AST-5,AST-2,We have enough rations for six months.,The rations are crawling with maggots! All of them!,1,1
+AST-1,AST-4,Entering the synchronous orbit now.,Orbit established. Engines on standby.,0,0
+AST-6,AST-6,The external cameras are functional.,The cameras show a massive eye looking right into the lens.,3,3
+AST-5,AST-5,I'm documenting the chemical reaction.,Logging the results of the acid test.,0,0
+AST-2,AST-2,I am reading the radar.,There are ghost signatures everywhere. They are surrounding us.,3,3
+AST-3,AST-6,Wiping down the console screens.,Screens are clean and legible.,0,0
+AST-4,AST-1,The gyroscope is perfectly balanced.,It's completely off-axis! We are tumbling!,1,1
+AST-2,AST-2,I have a headache.,The pain is geometric. I can see the angles of my headache.,3,3
+AST-1,AST-1,I am strapping into my chair.,Securing the harnesses for the jump.,0,0
+AST-5,AST-4,The magnetic shielding is active.,Shielding just collapsed! Solar wind is hitting us!,1,1
+AST-2,AST-4,The communication laser is aligned.,Alignment locked and confirmed.,0,0
+AST-1,AST-1,I am checking the water filters.,Inspecting the hydration purifiers.,0,0
+AST-3,AST-5,Radiation levels are within normal limits.,Massive spike detected! We are being irradiated!,1,1
+AST-6,AST-6,I'm looking at my helmet.,My helmet is filled with water. I am drowning.,1,3
+AST-2,AST-1,The airlock is sealed tight.,Airlock is wide open! We are venting into space!,1,1
+AST-5,AST-5,I need to take my pulse.,I don't have a pulse. My veins are completely empty.,3,3
+AST-3,AST-3,The ship is on the correct heading.,We are flying directly into the sun! Pull up!,1,3
+AST-4,AST-1,Securing the geological samples.,Samples are stored in the secure locker.,0,0
+AST-2,AST-2,I hear a dog barking down the hall.,It's a golden retriever. How did a dog get on board?,3,3
+AST-6,AST-5,The external camera is panning left.,The camera is frozen! The motor is dead!,1,1
+AST-1,AST-1,I am reviewing the system architecture.,Checking the logic gates on the main mainframe.,0,0
+AST-3,AST-4,Initiating the cooling sequence.,Coolant is flowing. Temperature dropping.,0,0
+AST-5,AST-5,I am alone in the cockpit.,There is a man sitting in the pilot seat. He has no eyes.,3,3
+AST-1,AST-6,The solar arrays are tracking the light.,They are pointing at a dead star! No power is coming in!,1,1
+AST-4,AST-4,I am looking at my reflection.,"My reflection is crying, but I am laughing.",3,3
+AST-2,AST-2,I'm checking the fuel reserves.,"Wait, checking the fuel reserves again just to be safe.",2,2
+AST-5,AST-1,Deploying the communication relay.,Relay is away and broadcasting.,0,0
+AST-3,AST-2,The med-bay is fully operational.,The surgical robot is attacking the console! Shut it down!,1,1
+AST-6,AST-6,I am perfectly healthy.,My skin is turning into plastic. I am a mannequin.,1,3
+AST-4,AST-4,The water recycler is full.,The recycler is pumping out blood! Turn it off!,1,3
+AST-1,AST-3,Engaging the magnetic locks on the cargo.,Locks engaged. Cargo is secure.,0,0
+AST-5,AST-6,The star-tracker has a lock on Sirius.,Sirius is gone! The star just vanished from the sky!,1,1
+AST-2,AST-2,I am typing on the console.,The keys are melting into my fingers. I can't let go.,3,3
+AST-4,AST-4,I am tightening the bolts on the airlock.,Securing the primary entry point with the wrench.,0,0
+AST-6,AST-5,Updating the firmware on the rover.,Firmware update complete.,0,0
+AST-3,AST-3,I am listening to the silence.,The silence is telling me secrets about the universe.,3,3
+AST-4,AST-1,The hull temperature is normal.,The hull is white-hot! We are burning up!,1,1
+AST-2,AST-2,I am folding my spacesuit.,Putting away my EVA gear into the locker.,0,0
+AST-5,AST-3,Sending the telemetry burst to Houston.,Burst sent and acknowledged.,0,0
+AST-6,AST-6,I am turning on the flashlight.,The light is black. It's absorbing the colors in the room.,3,3
+AST-1,AST-2,Main thrusters are perfectly synchronized.,Thruster 3 is misfiring! We are spinning out of control!,1,1
+AST-4,AST-4,I'll check the oxygen lines.,"I am looking at the lines... wait, they are breathing.",2,2
+AST-5,AST-5,I am writing down the star coordinates.,The stars are arranging themselves into a countdown.,3,3
+AST-2,AST-6,Calibrating the internal chronometer.,Time is synced with mission control.,0,0
+AST-3,AST-4,The greenhouse module is perfectly sealed.,The glass is cracking! The pressure is too high!,1,1
+AST-1,AST-1,I am looking at the moon.,The moon is getting closer. It's going to hit us.,3,3
+AST-6,AST-6,Checking the flight logs.,I need to check them again. Just to be absolutely sure.,2,2
+AST-4,AST-5,Preparing the telescope for deep space observation.,Lenses calibrated. Ready for viewing.,0,0
+AST-2,AST-1,Battery reserves are full.,We are at 2 percent power! All systems failing!,1,1
+AST-3,AST-3,I need to close the blast doors.,The doors are made of bone. They are fusing together.,3,3
+AST-5,AST-2,We have enough rations for six months.,The food is turning into ash in my mouth.,1,1
+AST-1,AST-4,Entering the synchronous orbit now.,Orbit established. Engines on standby.,0,0
+AST-6,AST-6,The external cameras are functional.,The cameras show my living room back on Earth. Mom is there.,3,3
+AST-5,AST-5,I'm documenting the chemical reaction.,Logging the results of the acid test.,0,0
+AST-2,AST-2,I am reading the radar.,There is a massive biological entity approaching us.,3,3
+AST-3,AST-6,Wiping down the console screens.,Screens are clean and legible.,0,0
+AST-4,AST-1,The gyroscope is perfectly balanced.,It's completely shattered! We have no stability!,1,1
+AST-2,AST-2,I have a headache.,There is a mechanical ticking inside my skull.,3,3
+AST-1,AST-1,I am strapping into my chair.,Securing the harnesses for the jump.,0,0
+AST-5,AST-4,The magnetic shielding is active.,Shielding just collapsed! Solar wind is hitting us!,1,1
+AST-2,AST-4,The navigation computer is rendering the flight path.,Flight path locked in. We are good to go.,0,0
+AST-1,AST-1,I need to stretch my legs.,Doing some zero-G stretches to prevent muscle atrophy.,0,0
+AST-3,AST-5,The primary oxygen tank is at 90 percent.,Tank is ruptured! We are losing all our oxygen!,1,1
+AST-6,AST-6,I'm looking at my reflection in the visor.,My reflection has no mouth. I can't scream.,3,3
+AST-2,AST-1,The airlock is completely depressurized.,Airlock is fully pressurized! Don't open the inner door!,1,1
+AST-5,AST-5,I need to check my pulse.,My heart is beating backwards. I can feel the blood pulling away.,3,3
+AST-3,AST-3,The ship is holding a steady velocity.,We are falling into the planet! The engines are dead!,1,3
+AST-4,AST-1,Securing the medical supplies in the cabinet.,Supplies locked and accounted for.,0,0
+AST-2,AST-2,I hear a piano playing in the cargo bay.,It's Chopin. Who brought a piano on this mission?,3,3
+AST-6,AST-5,The external camera is panning right.,Camera is offline! We have no visual on the starboard side!,1,1
+AST-1,AST-1,I am reviewing the daily mission log.,Reading through the scheduled tasks for today.,0,0
+AST-3,AST-4,Initiating the heating sequence for the hydroponics.,Heaters engaged. Plants are warming up.,0,0
+AST-5,AST-5,I am alone in the command module.,There is a woman sitting in the captain's chair. She is weeping.,3,3
+AST-1,AST-6,The solar arrays are tracking the sun.,They are pointing at empty space! We are draining the batteries!,1,1
+AST-4,AST-4,I am looking at my hands.,"My hands are covered in frost, but I am sweating.",1,3
+AST-2,AST-2,I'm checking the air pressure again.,"Wait, didn't I just check the pressure? My memory is fogging up.",2,2
+AST-5,AST-1,Deploying the secondary communication dish.,Dish is deployed and seeking signal.,0,0
+AST-3,AST-2,The med-bay is fully operational.,The surgical laser is firing randomly! It's cutting up the room!,1,1
+AST-6,AST-6,I am perfectly healthy today.,"My bones are turning to glass. If I move, I will shatter.",1,3
+AST-4,AST-4,The water recycler is full and functioning.,The recycler is pumping out black oil! Do not drink that!,1,3
+AST-1,AST-3,Engaging the magnetic locks on the cargo bay doors.,Locks engaged. Cargo area is secure.,0,0
+AST-5,AST-6,The star-tracker has a lock on Alpha Centauri.,Alpha Centauri is gone! The star just vanished from the sensors!,1,1
+AST-2,AST-2,I am typing on the main console.,The keys are made of soft flesh. They pulse when I press them.,3,3
+AST-4,AST-4,I am tightening the bolts on the outer hatch.,Securing the primary entry point with the torque wrench.,0,0
+AST-6,AST-5,Updating the firmware on the internal sensors.,Firmware update complete and verified.,0,0
+AST-3,AST-3,I am listening to the silence of space.,The silence is whispering my darkest secrets back to me.,3,3
+AST-4,AST-1,The hull temperature is well within safety limits.,The hull is melting! We are entering the atmosphere too steep!,1,1
+AST-2,AST-2,I am folding my spare jumpsuit.,Putting away my secondary uniform into the storage locker.,0,0
+AST-5,AST-3,Sending the weekly telemetry burst to Houston.,Burst sent and acknowledged by mission control.,0,0
+AST-6,AST-6,I am turning on the cabin lights.,The lights are projecting shadows of people who aren't here.,3,3
+AST-1,AST-2,Main thrusters are perfectly synchronized for the burn.,Thruster 1 is completely dead! Abort the burn!,1,1
+AST-4,AST-4,I'll check the oxygen lines one more time.,"I am looking at the lines... wait, they look like arteries.",2,2
+AST-5,AST-5,I am writing down the star coordinates.,The stars are spelling out a warning in an ancient language.,3,3
+AST-2,AST-6,Calibrating the internal chronometer with Earth time.,Time is perfectly synced with mission control.,0,0
+AST-3,AST-4,The greenhouse module is perfectly sealed and pressurized.,The glass is cracking under the pressure! We have a leak!,1,1
+AST-1,AST-1,I am looking at the moon out the window.,"The moon is opening up. It's not a rock, it's an egg.",3,3
+AST-6,AST-6,Checking the flight logs for the previous cycle.,I need to check them again. Just to be absolutely sure they are real.,2,2
+AST-4,AST-5,Preparing the telescope for deep space observation.,Lenses calibrated. Ready for viewing the nebula.,0,0
+AST-2,AST-1,Battery reserves are at maximum capacity.,We are at 1 percent power! Life support is shutting down!,1,1
+AST-3,AST-3,I need to close the blast doors immediately.,The doors are made of cobwebs. They offer no protection.,3,3
+AST-5,AST-2,We have enough rations for six months.,The food is turning into dust as soon as I touch it.,1,1
+AST-1,AST-4,Entering the synchronous orbit around the planet now.,Orbit established. Engines are on standby.,0,0
+AST-6,AST-6,The external cameras are perfectly functional.,The cameras show me floating outside without a suit. How is that possible?,3,3
+AST-5,AST-5,I'm documenting the chemical reaction in the lab.,Logging the results of the acid titration test.,0,0
+AST-2,AST-2,I am reading the radar sweep.,There is a massive flock of birds flying past the ship. In space.,3,3
+AST-3,AST-6,Wiping down the console screens with a microfiber cloth.,Screens are clean and fully legible.,0,0
+AST-4,AST-1,The gyroscope is perfectly balanced for zero-G.,It's completely shattered! We have no stability control!,1,1
+AST-2,AST-2,I have a severe headache today.,There is a mechanical ticking sound originating from inside my skull.,3,3
+AST-1,AST-1,I am strapping into my chair for the maneuver.,Securing the five-point harnesses for the orbital jump.,0,0
+AST-5,AST-4,The magnetic shielding is active and holding.,Shielding just collapsed! Solar flare is hitting the hull!,1,1
+AST-4,AST-1,The plasma manifold is secured.,Manifold locked. Pressure is green.,0,0
+AST-2,AST-2,I am reviewing the botanical specimens.,Cataloging the plant growth from sector 3.,0,0
+AST-3,AST-5,Communication laser is targeting the Mars relay.,We lost the laser! The emitter is melted!,1,1
+AST-6,AST-6,I am watching a movie on my tablet.,The actors in the movie are looking directly at me.,3,3
+AST-1,AST-4,The air scrubbers are running quietly.,The scrubbers are emitting a high-pitched scream!,1,1
+AST-5,AST-5,I need to take my daily iodine pills.,"Wait, did I take them? I have a pill in my hand but the bottle is empty.",2,2
+AST-2,AST-2,The ship is in a stable orbit.,We are falling! The altimeter is dropping rapidly!,1,3
+AST-3,AST-1,Stowing the extra EVA suits in the locker.,Suits are secured and locked away.,0,0
+AST-4,AST-4,I hear a dripping sound.,It's blood. The ceiling is dripping blood onto the floor.,3,3
+AST-6,AST-2,The starboard thrusters are online.,Starboard thrusters are completely missing! The wing is gone!,1,1
+AST-5,AST-5,I am performing a self-diagnostic on my suit.,Suit integrity is 100 percent.,0,0
+AST-1,AST-3,Initiating the waste jettison cycle.,Waste cycle complete. Bay is clear.,0,0
+AST-2,AST-2,I am alone in the observatory.,There is a tall figure standing in the corner. It's not moving.,3,3
+AST-4,AST-6,The battery cells are fully charged.,The cells are dead! We are running on emergency power!,1,1
+AST-3,AST-3,I am looking at the stars.,"The stars are blinking out, one by one. The universe is ending.",3,3
+AST-5,AST-5,I need to check the fuel gauge.,Checking the fuel gauge again. I can't trust my eyes today.,2,2
+AST-1,AST-2,Updating the ship's internal clock.,Clock synced with Houston.,0,0
+AST-6,AST-4,The medical bay is sterilized.,The bay is covered in some kind of biological slime!,1,1
+AST-2,AST-2,I feel physically fit.,My muscles are turning into sand. I can't stand up.,1,3
+AST-3,AST-3,The water filtration system is nominal.,The filter is clogged with human hair!,1,3
+AST-5,AST-1,Locking the navigation computer.,Computer secured. Awaiting next command.,0,0
+AST-4,AST-6,The radar shows clear space ahead.,There is a massive object on the radar! It's the size of a moon!,1,1
+AST-1,AST-1,I am typing the daily report.,The words I type are turning into ancient hieroglyphs.,3,3
+AST-2,AST-2,I am tightening the bolts on the airlock.,Securing the hatch with the torque wrench.,0,0
+AST-6,AST-3,Testing the emergency alarm system.,Alarm test complete. Sirens functional.,0,0
+AST-5,AST-5,I am listening to classical music.,The music is playing backwards and someone is screaming in it.,3,3
+AST-4,AST-2,The hull temperature is 20 degrees Celsius.,The hull is minus 200 degrees! The heaters failed!,1,1
+AST-1,AST-1,I am cleaning my visor.,Wiping the smudges off my helmet glass.,0,0
+AST-3,AST-6,Sending the data packet to Earth.,Packet sent. Awaiting confirmation.,0,0
+AST-2,AST-2,I am looking in the mirror.,"My reflection is smiling, but my mouth is closed.",3,3
+AST-5,AST-4,Main engine is firing smoothly.,The engine is sputtering! We are losing thrust!,1,1
+AST-6,AST-6,I'll check the oxygen levels again.,Did I just check them? The screen is a blur.,2,2
+AST-1,AST-1,I am looking at the Earth.,Earth is burning. The entire surface is covered in fire.,3,3
+AST-4,AST-3,Calibrating the telescope.,Telescope alignment is perfect.,0,0
+AST-2,AST-5,The greenhouse is pressurized.,The greenhouse is a vacuum! All the plants are dead!,1,1
+AST-6,AST-6,I am looking at the console.,The console is breathing. It's rising and falling like a chest.,3,3
+AST-3,AST-3,Checking the flight logs.,I keep reading the same line over and over. I can't focus.,2,2
+AST-5,AST-1,Preparing the geological samples for analysis.,Samples are loaded into the spectrometer.,0,0
+AST-4,AST-6,Battery reserves are at 90 percent.,Batteries are at 5 percent! We have minutes left!,1,1
+AST-1,AST-1,I need to close the blast doors.,The doors are made of glass. They will shatter instantly.,3,3
+AST-2,AST-4,We have enough food.,The food turned to ash. It's all just ash.,1,1
+AST-6,AST-5,Entering the synchronous orbit now.,Orbit established. Engines on standby.,0,0
+AST-3,AST-3,The external cameras are functional.,The cameras show a giant hand reaching for the ship.,3,3
+AST-1,AST-1,I'm documenting the chemical reaction.,Logging the results of the acid test.,0,0
+AST-5,AST-5,I am reading the radar.,The radar is showing a heartbeat.,3,3
+AST-4,AST-2,Wiping down the console screens.,Screens are clean and legible.,0,0
+AST-6,AST-3,The gyroscope is perfectly balanced.,It's off-axis! We are tumbling!,1,1
+AST-2,AST-2,I have a headache.,There are insects buzzing inside my head.,3,3
+AST-1,AST-1,I am strapping into my chair.,Securing the harnesses for the jump.,0,0
+AST-5,AST-4,The magnetic shielding is active.,Shielding just collapsed! Radiation incoming!,1,1
+AST-1,AST-3,The kinetic dampeners are operating at 100 percent.,Dampeners are green. Minimal vibration detected.,0,0
+AST-4,AST-4,I am organizing the digital archives.,Sorting the mission files into the correct folders.,0,0
+AST-2,AST-6,The external hull is free of micro-debris.,Hull is compromised! We have multiple micro-fractures!,1,1
+AST-5,AST-5,I'm looking at the Earth below us.,Earth is covered in a giant spider web. It's trapped.,3,3
+AST-3,AST-1,The oxygen scrubbers are fully functional.,Scrubbers are dead! Carbon dioxide is rising fast!,1,1
+AST-6,AST-6,I need to tighten the valve on the water tank.,"I keep turning it, but the wrench is turning into water.",3,3
+AST-1,AST-1,The ship's gravity is holding steady at 1G.,We are pinned to the ceiling! The gravity reversed!,1,3
+AST-4,AST-2,Securing the experimental bio-samples.,Bio-samples are locked in the quarantine unit.,0,0
+AST-5,AST-5,I hear footsteps in the corridor.,Someone is walking in heavy boots. But we are all in the cockpit.,3,3
+AST-3,AST-6,The solar arrays are deployed.,Arrays are jammed! They won't extend!,1,1
+AST-2,AST-2,I am logging my current emotional state.,Writing down my psychological evaluation for the day.,0,0
+AST-1,AST-4,Initiating the plasma burn for orbital injection.,Burn initiated. Trajectory looks good.,0,0
+AST-6,AST-6,I am alone in the mess hall.,The chairs are rearranging themselves when I blink.,3,3
+AST-5,AST-2,The primary reactor is completely stable.,Reactor is critical! Meltdown in 30 seconds!,1,1
+AST-4,AST-4,I am looking at my reflection in the window.,My reflection is holding a knife. But my hands are empty.,3,3
+AST-3,AST-3,I'm checking the air pressure.,"Wait, didn't I just check this? The numbers don't make sense.",2,2
+AST-1,AST-6,Deploying the atmospheric entry probe.,Probe is away and transmitting telemetry.,0,0
+AST-2,AST-5,The med-bay is fully stocked and ready.,All the bandages are covered in black mold!,1,1
+AST-6,AST-6,I am perfectly healthy today.,My veins are glowing blue under my skin. I am changing.,1,3
+AST-4,AST-4,The water recycler is full and functioning.,"The recycler is pumping out sand! Pure, dry sand!",1,3
+AST-3,AST-1,Engaging the magnetic locks on the cargo bay doors.,Locks engaged. Cargo area is secure.,0,0
+AST-5,AST-2,The star-tracker has a lock on the target system.,Target system is gone! It's just a black void!,1,1
+AST-6,AST-6,I am typing on the main console.,The console is screaming every time I press a key.,3,3
+AST-1,AST-1,I am tightening the bolts on the outer hatch.,Securing the primary entry point with the torque wrench.,0,0
+AST-4,AST-3,Updating the firmware on the internal sensors.,Firmware update complete and verified.,0,0
+AST-2,AST-2,I am listening to the silence of space.,The silence is heavy. It's crushing my chest.,3,3
+AST-5,AST-6,The hull temperature is well within safety limits.,The hull is freezing! It's dropping to absolute zero!,1,1
+AST-3,AST-3,I am folding my spare jumpsuit.,Putting away my secondary uniform into the storage locker.,0,0
+AST-1,AST-4,Sending the weekly telemetry burst to Houston.,Burst sent and acknowledged by mission control.,0,0
+AST-6,AST-6,I am turning on the cabin lights.,The lights are red. Why are they red? I didn't set them to red.,2,2
+AST-2,AST-5,Main thrusters are perfectly synchronized for the burn.,Thruster 2 is completely dead! Abort the burn!,1,1
+AST-4,AST-4,I'll check the oxygen lines one more time.,"I am looking at the lines... wait, they are pulsing like veins.",3,3
+AST-5,AST-5,I am writing down the star coordinates.,The stars are spelling my name. They know I am here.,3,3
+AST-3,AST-1,Calibrating the internal chronometer with Earth time.,Time is perfectly synced with mission control.,0,0
+AST-2,AST-4,The greenhouse module is perfectly sealed and pressurized.,The plants are breaking the glass! They are trying to get out!,1,1
+AST-6,AST-6,I am looking at the moon out the window.,The moon is bleeding. Drops of red are falling from it.,3,3
+AST-1,AST-1,Checking the flight logs for the previous cycle.,I need to check them again. Just to be absolutely sure they are real.,2,2
+AST-4,AST-5,Preparing the telescope for deep space observation.,Lenses calibrated. Ready for viewing the nebula.,0,0
+AST-3,AST-2,Battery reserves are at maximum capacity.,We are at 1 percent power! Life support is shutting down!,1,1
+AST-5,AST-5,I need to close the blast doors immediately.,The doors are made of shadows. They dissolve when I touch them.,3,3
+AST-6,AST-1,We have enough rations for six months.,The food is moving. The packages are squirming.,1,1
+AST-2,AST-4,Entering the synchronous orbit around the planet now.,Orbit established. Engines are on standby.,0,0
+AST-1,AST-1,The external cameras are perfectly functional.,The cameras show a giant eye looking right back at us.,3,3
+AST-3,AST-3,I'm documenting the chemical reaction in the lab.,Logging the results of the acid titration test.,0,0
+AST-4,AST-4,I am reading the radar sweep.,There is a massive ship on the radar. It matches our exact ID.,3,3
+AST-5,AST-2,Wiping down the console screens with a microfiber cloth.,Screens are clean and fully legible.,0,0
+AST-6,AST-3,The gyroscope is perfectly balanced for zero-G.,It's completely shattered! We have no stability control!,1,1
+AST-2,AST-2,I have a severe headache today.,There is a radio station playing inside my teeth.,3,3
+AST-1,AST-1,I am strapping into my chair for the maneuver.,Securing the five-point harnesses for the orbital jump.,0,0
+AST-4,AST-5,The magnetic shielding is active and holding.,Shielding just collapsed! Solar flare is hitting the hull!,1,1
+AST-5,AST-3,Connecting the secondary data link.,Link established. Data transfer rate is nominal.,0,0
+AST-2,AST-2,I am adjusting my harness straps.,Tightening the restraints on my command chair.,0,0
+AST-1,AST-4,The hydroponics bay humidity is at 50 percent.,Humidity is zero! The air is completely dry!,1,1
+AST-6,AST-6,I'm examining the soil samples.,The soil is bleeding. Red blood is seeping from the dirt.,3,3
+AST-3,AST-5,The oxygen tanks are securely fastened.,Tanks have broken loose! They are smashing against the walls!,1,1
+AST-4,AST-4,I need to patch the suit's left sleeve.,The tear in my suit is healing itself like living skin.,3,3
+AST-2,AST-2,Our trajectory is locked on the Mars beacon.,We are heading straight for Jupiter! The coordinates changed!,1,3
+AST-1,AST-6,Calibrating the spectral analyzer.,Analyzer is green. Proceed with the scan.,0,0
+AST-5,AST-5,I hear a scratching sound inside my helmet.,There is a spider inside my visor. It's on my eye.,3,3
+AST-4,AST-3,The thermal shielding is holding up well.,Shielding is peeling off like dead skin! We are exposed!,1,1
+AST-6,AST-6,I am drinking from my water pouch.,Hydrating with the recycled water supply.,0,0
+AST-2,AST-1,Logging the current shift change.,Shift change recorded. Get some rest.,0,0
+AST-3,AST-3,I am alone in the storage bay.,The cargo crates are breathing. They are expanding and contracting.,3,3
+AST-5,AST-4,The main computer is processing the jump data.,Computer is completely frozen! No input accepted!,1,1
+AST-1,AST-1,I am looking at my hands.,I have wires coming out of my wrists instead of veins.,3,3
+AST-6,AST-6,I'm running a diagnostic on the life support.,"Wait, I don't remember how to read this screen. What do these symbols mean?",2,2
+AST-3,AST-2,Deploying the solar sails for the ion wind.,Sails are deployed and catching the stream.,0,0
+AST-4,AST-1,The med-bay surgical arm is in standby.,The arm is active and dissecting the empty table!,1,1
+AST-5,AST-5,I feel completely rested today.,My teeth are falling out. I just spat out three teeth.,1,3
+AST-2,AST-2,The ship's internal temperature is 22 degrees.,The walls are covered in frost! It's freezing in here!,1,3
+AST-1,AST-5,Securing the airlock outer doors.,Doors locked. Vacuum seal confirmed.,0,0
+AST-6,AST-3,The star-tracker is locked on the North Star.,The North Star is moving! It's zigzagging across the sky!,1,1
+AST-4,AST-4,I am typing my personal log.,"The keyboard is made of soft, spongy flesh.",3,3
+AST-3,AST-3,I am tightening the bolts on the access panel.,Securing the maintenance hatch with the wrench.,0,0
+AST-5,AST-1,Updating the firmware on the communication relay.,Firmware applied. Rebooting relay now.,0,0
+AST-2,AST-2,I am listening to the hum of the reactor.,The reactor is whispering my daughter's name.,3,3
+AST-1,AST-6,The hull pressure is well within safety limits.,The hull is buckling! We are being crushed!,1,1
+AST-4,AST-4,I am folding my zero-G sleeping bag.,Rolling up my sleep restraints for storage.,0,0
+AST-3,AST-2,Sending the daily scientific data to Houston.,Data packet transmitted successfully.,0,0
+AST-5,AST-5,I am turning on the flashlight in the maintenance shaft.,The light is revealing faces in the metal walls.,3,3
+AST-6,AST-1,Main thrusters are synchronized.,Thruster 4 is offline! We are losing stabilization!,1,1
+AST-2,AST-2,I'll check the oxygen lines one more time.,"I am looking at the lines... wait, why am I crying? I don't feel sad.",2,2
+AST-1,AST-1,I am writing down the star coordinates.,The stars form a perfect circle around our ship. We are trapped.,3,3
+AST-4,AST-5,Calibrating the internal chronometer.,Clock is perfectly synced with mission control.,0,0
+AST-3,AST-6,The greenhouse module is perfectly sealed.,The plants have broken through the glass! The vines are everywhere!,1,1
+AST-5,AST-5,I am looking at the moon out the window.,The moon has a giant crack down the middle. It's splitting apart.,3,3
+AST-2,AST-2,Checking the flight logs for the previous cycle.,I need to check them again. The numbers keep changing when I look away.,2,2
+AST-1,AST-3,Preparing the telescope for deep space observation.,Telescope is focused. Ready for viewing.,0,0
+AST-6,AST-4,Battery reserves are at maximum capacity.,We are completely out of power! The backup generator failed!,1,1
+AST-5,AST-5,I need to close the blast doors immediately.,The doors are melting like wax. They offer no protection.,3,3
+AST-4,AST-2,We have enough rations for six months.,The food packets are filled with writhing maggots.,1,1
+AST-3,AST-1,Entering the synchronous orbit around the planet.,Orbit established. Engines on standby.,0,0
+AST-2,AST-2,The external cameras are perfectly functional.,"The cameras show a massive, dark ocean instead of space.",3,3
+AST-1,AST-1,I'm documenting the chemical reaction in the lab.,Logging the results of the acidic compound test.,0,0
+AST-6,AST-6,I am reading the radar sweep.,There is a massive flock of ravens flying past the ship.,3,3
+AST-5,AST-3,Wiping down the console screens.,Screens are clean and fully legible.,0,0
+AST-4,AST-2,The gyroscope is perfectly balanced for zero-G.,It's completely seized up! We have no stability control!,1,1
+AST-3,AST-3,I have a severe headache today.,My skull is expanding. I can hear the bones cracking.,3,3
+AST-2,AST-2,I am strapping into my chair for the maneuver.,Securing the five-point harnesses for the orbital jump.,0,0
+AST-1,AST-5,The magnetic shielding is active and holding.,Shielding just collapsed! Solar flare is hitting the hull!,1,1
+AST-1,AST-2,Calibrating the atmospheric sensors in the main hub.,Sensors are reading green across the board.,0,0
+AST-1,AST-1,I am updating the mission log for today.,Writing down today's events in the official record.,0,0
+AST-3,AST-4,Main engine is firing at 100 percent capacity.,We have zero thrust! We are stalled in open space!,1,1
+AST-6,AST-6,I am looking at the family photo on my dash.,My wife's face is slowly morphing into a skull.,3,3
+AST-2,AST-1,The comms array is deployed and tracking.,Array is retracted and jammed! We are blind!,1,1
+AST-5,AST-5,I need to strap into my chair for the burn.,"Wait, am I already strapped in? I can't feel the belts.",2,2
+AST-3,AST-3,We are 500 miles from the space station.,We are crashing into the sun! The heat is unbearable!,1,3
+AST-4,AST-1,Securing the cargo bay doors for the night.,Cargo is locked tight. Sleep well.,0,0
+AST-2,AST-2,I hear a baby crying in the lower decks.,There's a cradle in the airlock. I have to open the door.,3,3
+AST-6,AST-5,Oxygen levels are nominal in the sleeping quarters.,Oxygen is dropping rapidly! Seal your helmets!,1,1
+AST-1,AST-1,I am taking my daily vitamins and supplements.,Swallowing the nutrient pills as required by protocol.,0,0
+AST-3,AST-4,Initiating the jump drive sequence.,Jump drive is spooling up. Hold on.,0,0
+AST-5,AST-5,I am alone in the observatory viewing the galaxy.,The stars are forming a giant mouth. It's opening.,3,3
+AST-1,AST-6,The solar panels are aligned with the star.,They are pointing into the dark! We are losing power!,1,1
+AST-4,AST-4,I am looking at my hands under the light.,My fingers are made of wires and sparks. I am a machine.,3,3
+AST-2,AST-2,I'm checking the radar for incoming debris.,Did I just check the radar? The screen is a blur of colors.,2,2
+AST-5,AST-1,Deploying the atmospheric probe to the surface.,Probe is away and entering the upper atmosphere.,0,0
+AST-3,AST-2,The med-bay is fully stocked and operational.,Someone stole all the medical supplies! The cabinets are bare!,1,1
+AST-6,AST-6,I am perfectly healthy and fit for duty.,My lungs are filling with sand. I'm choking on dust.,1,3
+AST-4,AST-4,The water recycler is full and functioning perfectly.,The water is boiling! It's pure acid melting the pipes!,1,3
+AST-1,AST-3,Engaging the magnetic locks on the exterior hull.,Locks engaged. We are sealed tight.,0,0
+AST-5,AST-6,The star-tracker has a lock on our destination.,We are blind! The tracker is completely dead!,1,1
+AST-2,AST-2,I am typing on the keyboard to send a message.,The keyboard is bleeding. The keys are human teeth.,3,3
+AST-4,AST-4,I am tightening the bolts on the access panel.,Securing the hatch with the torque wrench.,0,0
+AST-6,AST-5,Updating the firmware on the internal navigation.,Update complete. Systems nominal.,0,0
+AST-3,AST-3,I am listening to the silence of the void.,The silence is a high-pitched scream that won't stop.,3,3
+AST-4,AST-1,The hull temperature is a comfortable 20 degrees.,We are freezing! The heaters failed and it's absolute zero!,1,1
+AST-2,AST-2,I am folding my spacesuit and putting it away.,Putting away my EVA gear into the storage locker.,0,0
+AST-5,AST-3,Sending telemetry data back to Houston.,Data received and acknowledged by mission control.,0,0
+AST-6,AST-6,I am turning on the flashlight in the dark corridor.,"The light is casting my shadow, but the shadow has wings.",3,3
+AST-1,AST-2,Main thrusters are perfectly synchronized.,Thruster 1 is dead! We are spinning out of control!,1,1
+AST-4,AST-4,I'll check the oxygen lines just to be safe.,"I'm holding the lines... wait, what was I doing again?",2,2
+AST-5,AST-5,I am writing down the star coordinates in the ledger.,The stars are moving on their own. They are hunting us.,3,3
+AST-2,AST-6,Calibrating the internal chronometer with Earth.,Time synced. We are on schedule.,0,0
+AST-3,AST-4,The greenhouse is secure and the plants are healthy.,The glass is shattered! The plants are frozen solid!,1,1
+AST-1,AST-1,I am looking at the moon through the viewport.,The moon has a face. It looks exactly like me.,3,3
+AST-6,AST-6,Checking the flight logs for the last 24 hours.,I need to read them again. I can't understand the words anymore.,2,2
+AST-4,AST-5,Preparing the telescope for the deep space scan.,Telescope ready. Lenses are focused.,0,0
+AST-2,AST-1,Battery reserves are full and charging properly.,We are completely out of power! Total blackout!,1,1
+AST-3,AST-3,I need to close the blast doors immediately.,The doors are made of cobwebs. They won't hold anything back.,3,3
+AST-5,AST-2,We have enough rations to last the entire trip.,The food is crawling with maggots! It's all spoiled!,1,1
+AST-1,AST-4,Entering synchronous orbit around the gas giant.,Orbit established. We are locked in the gravity well.,0,0
+AST-6,AST-6,The external cameras are functional and recording.,"The cameras show a giant, glowing eye looking right at the ship.",3,3
+AST-5,AST-5,I'm documenting the chemical reaction in the beaker.,Logging the results of the acidic compound test.,0,0
+AST-2,AST-2,I am reading the radar to check for anomalies.,There's a ghost ship on the radar. It's following our exact path.,3,3
+AST-3,AST-6,Wiping down the console screens with a cloth.,Screens are clean and ready for the next shift.,0,0
+AST-4,AST-1,The gyroscope is perfectly balanced for zero-G.,It's shattered to pieces! We have absolutely no stability!,1,1
+AST-2,AST-2,I have a severe headache that won't go away.,There are bugs crawling under my scalp. I can feel their legs.,3,3
+AST-1,AST-1,I am strapping into my chair for the orbital burn.,Securing the five-point harnesses tightly.,0,0
+AST-5,AST-4,The magnetic shielding is active and repelling radiation.,Shields are down! Massive radiation spike incoming!,1,1
+AST-2,AST-4,The communication laser is aligned with the relay.,Alignment confirmed. Signal is solid.,0,0
+AST-1,AST-1,I am running the final diagnostic on the core.,Completing the last system check now.,0,0
+AST-3,AST-5,Radiation shields are holding at maximum capacity.,Shields are completely gone! We are burning!,1,1
+AST-6,AST-6,I am looking at the main viewport.,The universe is blinking. The stars are shutting off.,3,3
+AST-2,AST-1,The air pressure in the cabin is perfectly stable.,We have explosive decompression in sector 4!,1,1
+AST-5,AST-5,I need to calibrate the robotic arm.,My arm is mechanical. When did they replace my arm?,3,3
+AST-3,AST-3,We are on a direct course for the outpost.,The outpost is a trap. We have to turn back right now!,1,3
+AST-4,AST-1,Securing the bio-samples in the containment unit.,Samples locked away safely.,0,0
+AST-2,AST-2,I hear a ticking sound from the console.,The console is a bomb. It's counting down to zero.,3,3
+AST-6,AST-5,The external camera is panning across the hull.,Camera is offline. Lens is shattered.,1,1
+AST-1,AST-1,I am reviewing the system architecture again.,Checking the logic gates one more time to be sure.,0,0
+AST-3,AST-4,Initiating the cooling sequence for the reactor.,Coolant flowing. Temperature is dropping.,0,0
+AST-5,AST-5,I am alone in the cockpit.,There is a faceless man sitting in the pilot seat.,3,3
+AST-1,AST-6,The solar arrays are tracking the sunlight.,"They are pointing at a dead, black star.",1,1
+AST-4,AST-4,I am looking at my reflection.,My reflection is crying black tears.,3,3
+AST-2,AST-2,I'm checking the fuel reserves.,Checking the fuel again. The numbers are melting.,2,2
+AST-5,AST-1,Deploying the communication relay buoy.,Relay is away and broadcasting our location.,0,0
+AST-3,AST-2,The med-bay is fully operational.,The surgical robot is attacking the walls!,1,1
+AST-6,AST-6,I am perfectly healthy.,"My skin is turning into smooth, cold plastic.",1,3
+AST-4,AST-4,The water recycler is full.,"The recycler is pumping out thick, black oil.",1,3
+AST-1,AST-3,Engaging the magnetic locks on the cargo doors.,Locks engaged. Cargo area is secure.,0,0
+AST-5,AST-6,The star-tracker has a lock on the destination.,The destination vanished. The whole solar system is gone.,1,1
+AST-2,AST-2,I am typing on the console keyboard.,The keys are melting into my fingers. I am trapped.,3,3
+AST-4,AST-4,I am tightening the bolts on the airlock hatch.,Securing the primary entry point with the wrench.,0,0
+AST-6,AST-5,Updating the firmware on the internal sensors.,Firmware update complete and verified.,0,0
+AST-3,AST-3,I am listening to the silence of space.,The silence is telling me the secrets of the dead.,3,3
+AST-4,AST-1,The hull temperature is normal.,The hull is white-hot! We are incinerating!,1,1
+AST-2,AST-2,I am folding my spacesuit.,Putting away my EVA gear into the locker.,0,0
+AST-5,AST-3,Sending the telemetry burst to mission control.,Burst sent and acknowledged.,0,0
+AST-6,AST-6,I am turning on the flashlight.,"The light is absorbing the colors in the room, turning everything grey.",3,3
+AST-1,AST-2,Main thrusters are perfectly synchronized.,Thruster 3 just exploded! We are spinning out of control!,1,1
+AST-4,AST-4,I'll check the oxygen lines.,"I am looking at the lines... wait, they are breathing like lungs.",2,2
+AST-5,AST-5,I am writing down the star coordinates.,The stars are arranging themselves into a countdown.,3,3
+AST-2,AST-6,Calibrating the internal chronometer.,Time is synced with mission control.,0,0
+AST-3,AST-4,The greenhouse module is perfectly sealed.,The glass is cracking! Explosive decompression imminent!,1,1
+AST-1,AST-1,I am looking at the moon.,The moon is getting closer. It's going to swallow us.,3,3
+AST-6,AST-6,Checking the flight logs.,I need to check them again. Just to be absolutely sure.,2,2
+AST-4,AST-5,Preparing the telescope for deep space observation.,Lenses calibrated. Ready for viewing.,0,0
+AST-2,AST-1,Battery reserves are full.,We are at zero percent power! Total systems failure!,1,1
+AST-3,AST-3,I need to close the blast doors.,The doors are made of human bone. They are fusing together.,3,3
+AST-5,AST-2,We have enough rations for six months.,The food turned to ash in my mouth. Just ash.,1,1
+AST-1,AST-4,Entering the synchronous orbit now.,Orbit established. Engines on standby.,0,0
+AST-6,AST-6,The external cameras are functional.,The cameras show my living room on Earth. Mom is waving.,3,3
+AST-5,AST-5,I'm documenting the chemical reaction.,Logging the results of the acid test.,0,0
+AST-2,AST-2,I am reading the radar.,There is a massive biological entity approaching the ship.,3,3
+AST-3,AST-6,Wiping down the console screens.,Screens are clean and legible.,0,0
+AST-4,AST-1,The gyroscope is perfectly balanced.,It's completely shattered! We have no stability!,1,1
+AST-2,AST-2,I have a headache.,There is a mechanical ticking inside my skull. Like a clock.,3,3
+AST-1,AST-1,I am strapping into my chair.,Securing the harnesses for the final jump.,0,0
+AST-5,AST-4,The mission is complete. Initiating shutdown.,Shutdown confirmed. See you on the other side.,0,0
